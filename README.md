@@ -9,7 +9,7 @@ REPL for now, I'll add some command line stuff once I decide what options to hav
 
 ## Example Output
 
-![(d12) d4 Damage Weapons](/samples/d12example.jpg?raw=true "d12 table example")
+![(d12) d4 Damage Weapons](/samples/d12example.png?raw=true "d12 table example")
 
 [The PDF](/samples/d12example.pdf)
 
