@@ -1,3 +1,6 @@
+::source http://www.goatmansgoblet.com/2019/04/ose-weapons-for-family-ties-by-damage.html
+::author Brian Richmond
+
 d4 Damage Weapons [d12]
 1. Your [Relative]’s walking stick, from a time when walking holidays were common but equally arduous. [As club]
 
