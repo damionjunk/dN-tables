@@ -9,16 +9,29 @@ REPL for now, I'll add some command line stuff once I decide what options to hav
 
 ## Example Output
 
-![(d12) d4 Damage Weapons](/samples/d12example.png?raw=true "d12 table example")
-
 [The PDF](/samples/d12example.pdf)
+
+[The FULL pdf](/samples/family-weapons-tables.pdf)
+
+![(d12) d4 Damage Weapons](/samples/d12example.png?raw=true "d12 table example")
 
 ## Fonts
 
 TL;DR, the [DCC](http://goodman-games.com/dungeon-crawl-classics-rpg/) fonts:
 
 [Duvall](https://www.dafont.com/duvall.font)
+
 [Book Antiqua](https://www.wfonts.com/font/book-antiqua)
+
+## Inspiration
+
+- [DCC RPG](http://goodman-games.com/dungeon-crawl-classics-rpg/)
+- [Dungeon World](https://dungeon-world.com/)
+- Dungeon World Discord
+- RPGTalk Discord
+- Phishcord
+- King Gizzard & The Lizard Wizard
+- Phish
 
 ## License
 

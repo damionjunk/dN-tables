@@ -1,5 +1,7 @@
 (ns dntables.core
-  (:require [clj-pdf.core :as pdf]))
+  (:require [clj-pdf.core :as pdf]
+            [clojure.java.io :as io]
+            [dntables.parsers.text :as tp]))
 
 (def black [0   0   0])
 (def white [255 255 255])
@@ -35,8 +37,37 @@
           (make-rows items))]
    output))
 
-(comment
+(defn build-tables-from-text [file]
+  (let [data (tp/simple-reader file)]
+    (map
+     (fn [{items :items title :title source :source author :author}]
+       (into [:pdf-table
+              {:width-percent 100
+               :no-split-rows? true
+               :keep-together? true
+               :header [[[:pdf-cell {:background-color [0 0 0] :align :center :padding-bottom 8 :padding-left 8}
+                          [:phrase {:size 15 :color [255 255 255] :ttf-name "fonts/Duvall.ttf"}
+                           (str "d" (count items))]]
+                         [:pdf-cell {:background-color [0 0 0] :valign :center :align :center :padding-bottom 8 :padding-left 10}
+                          [:phrase {:size 15 :color [255 255 255] :ttf-name "fonts/Duvall.ttf"}
+                           title]]]]}
+              [8 92]]
+             (make-rows items)))
+     data)))
 
+(defn write-tables [tables output]
+  (pdf/pdf
+   [{:register-system-fonts? true
+     :font {:size 12 :ttf-name "fonts/Book Antiqua.ttf"}}
+    tables]
+   output))
+
+(comment
+  
+ (write-tables
+  (build-tables-from-text (io/resource "goatmansgoblet/familyweapons.txt"))
+  "family-weapons-tables.pdf")
+ 
   (make-table
    {:source "http://www.goatmansgoblet.com/2019/04/ose-weapons-for-family-ties-by-damage.html"
     :author "Brian Richmond"

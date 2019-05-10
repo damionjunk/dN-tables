@@ -1,4 +1,4 @@
-(ns dntables.parsers
+(ns dntables.parsers.text
   (:require [clojure.java.io :as io]
             [clojure.string :as s]))
 
@@ -26,7 +26,7 @@
   (when text (some? (re-find #"^\d" (s/trim text)))))
 
 (defn parse-entry [text]
-  (second (re-find #"^\d+[\s-:.=\>]+(.*)" text)))
+  (second (re-find #"^\d+\s?[A-Za-z]{0,1}[\s-:.=\>]+(.*)" text)))
 
 (defn ->empty->nil [x] (if (nil? x) nil (if (empty? (s/trim x)) nil (s/trim x))))
 
