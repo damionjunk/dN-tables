@@ -14,12 +14,18 @@
 (defn parse-author [text]
   (second (re-find #"^::author\s+(.*)" text)))
 
+(defn license? [text]
+  (when text (some? (re-find #"^::license" (s/trim text)))))
+
+(defn parse-license [text]
+  (second (re-find #"^::license\s+(.*)" text)))
+
 (defn title? [text]
   (when text (some? (re-find #"^[\[\()]|^[A-Za-z!-.:$#@]" (s/trim text)))))
 
 (defn parse-title [text]
-  (or (second (re-find #"^[\[\(]\s?d\s?\d+\s?[\]\)]\s?(.*)" text))
-      (second (re-find #"^(.*)[\[\(]\s?d\s?\d+\s?[\]\)]\s?$" text))
+  (or (second (re-find #"^[\[\(]\s?\d?\s?d\s?\d+\s?[\]\)]\s?(.*)" text))
+      (second (re-find #"^(.*)[\[\(]\s?\d?\s?d\s?\d+\s?[\]\)]\s?$" text))
       ))
 
 (defn entry? [text]
@@ -87,6 +93,8 @@
 
 
 (comment
+  
+  (parse-title "So, we're exploring The Dread Pit of Zeiram the Lich. What's guarding the front door? (d6)")
 
   (parse-title "this is a title [ d 12 ]")
 

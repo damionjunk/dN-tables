@@ -9,6 +9,10 @@ REPL for now, I'll add some command line stuff once I decide what options to hav
 
 ## Example Output
 
+Text from: http://www.goatmansgoblet.com/2019/04/ose-weapons-for-family-ties-by-damage.html
+
+All text Copyright Brian Richmond. Used here without permission to test table generation.
+
 [The PDF](/samples/d12example.pdf)
 
 [The FULL pdf](/samples/family-weapons-tables.pdf)
@@ -27,6 +31,7 @@ TL;DR, the [DCC](http://goodman-games.com/dungeon-crawl-classics-rpg/) fonts:
 
 - [DCC RPG](http://goodman-games.com/dungeon-crawl-classics-rpg/)
 - [Dungeon World](https://dungeon-world.com/)
+- [Weapons for Family Ties Table](http://www.goatmansgoblet.com/2019/04/ose-weapons-for-family-ties-by-damage.html)
 - Dungeon World Discord
 - RPGTalk Discord
 - Phishcord
