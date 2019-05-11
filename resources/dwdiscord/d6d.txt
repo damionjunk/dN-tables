@@ -1,0 +1,414 @@
+::license CC BY
+::source Dungeon World Discord #d6-democracy
+::author Various Authors
+
+Tam03/28/2019
+So, we're exploring The Dread Pit of Zeiram the Lich. What's guarding the front door? (d6)
+1. A pair of copper warrior statues, trying the old "one of us lies, the other always tells the truth" thing, but they keep getting confused which is which.
+Burch03/28/2019
+2. A ghost who doesn't realise he's dead. He'll only let his granddaughter past in to the lair, but if you convince him he is indeed a ghost, or that you know his grandaughter, or that you are his grandaughter, he might change his tune.
+Marcus03/28/2019
+3. A solid stone or metal door inscribed with instructions to speak the password or insert the limb of your choice into the conveniently placed slot as payment. The door responds to nothing else.
+Tam03/28/2019
+4. Nothing, but when you step through the open door you find yourself back outside, only imperceptible to those who haven't yet passed through.
+Helicity03/28/2019
+5. A pile of what looks to be the skeletal remains of adventurers and their gear. Unfortunately this is a devious trap as all the items are cursed.
+caiphon03/28/2019
+6.  3d2 "zombies" - actually each dead body has been stuffed with two or more shades, causing the bodies to twitch and giving the appearance of undeath. Destroying the bodies releases the much deadlier shades from their fleshy imprisonment.
+Tam03/28/2019
+We're past the front door (somehow, probably lost some henchmen out there). What's the first thing we notice, sense, smell taste, etc. in here? (2d6)
+Peter J03/28/2019
+2. The torches in here are lit, but surely they must have burned out years ago...
+Leadlight03/28/2019
+3. You scan the poorly lit hall and note nothing of interest. Unbeknownst to you though there’s a slight crack on the side of the wall that’s leaking sulfur. Hey it’s pretty dark in here. Why don’t you light a torch and I’ll let you mark XP? :wink: (Is this how this works?)
+Tam03/28/2019
+Close, just label it "3" instead of -6, and then someone will do 4, and so on until we have a whole table!
+Guycep03/28/2019
+4. An onyx sphere atop a podium, a pounding headache, and a bitter taste in your mouths
+Torin_Blood (GMT-6)03/28/2019
+5 the  [Intoxicating] smell of belladonna coats the air , a low sussurus of ropes sliding against rope ,  a complex network of faded red ropes marking out an old spell constantly shifts and tries to reform around something missing it's center.
+6.  A soft rainbow kaleidoscope of colors,  rows of intricately twisted cast iron form delicate but rusting  flowers, each petal glows,  where not rust coated, with a different pastel hue.  The scent of spring after the first thaw on a mountain valley wafts playfully past you. Faint calls of Robins and cardinals flit about the intimate welcome chamber.
+Marcus03/28/2019
+7. The distinct, acrid scent of burnt flesh.
+Torin_Blood (GMT-6)03/28/2019
+8 the slow steady turning of gear works gently vibrates through the air, the scent of old oil and leather assaults the nose,  the room is nearly empty save for a single wheel on the far wall slowly turning it's leather belt slapping loosely against the air  and one on the near wall still and unmoving.
+Slothman03/28/2019
+9. A copper bowl is held from the ceiling by 3 chains, and strange green smoke comes from within, scenting the air with a mixture of rotting flesh and fresh garlic.
+Jaces (UTC-4)03/28/2019
+10. Nothing. Nothing at all. Like, literally nothing. We're all suddenly completely devoid of all sensations- there is no odor, no taste to the air. Everything in our field of view is completely white (or is it black?). There are no audible sounds, and even the clothes on our back seem to have vanished- at least, we can't feel anything there.
+Halsver03/28/2019
+11. A great feast lies before you on a long stone table, the food looks delicious and the table setting inviting. A boisterous chatter fills the air as guests begin to file into the room from from all directions, taking their seats at the table. Once seated the conversations end and the ghostly figures look at you with hungry eyes.
+Burch03/29/2019
+12. A vase filled with freshly picked flowers, arranged with care. They've clearly been watered recently - who looks after them? The vase is the not entirely rotted head of a humanoid, mind, taking any of the comfort that may have been there from seeing the flowers.
+HiveMindfullness03/29/2019
+Remind me, what did Old Irontooth say gave him his scars? It was something down in the Dread Pit (1d6)
+TatsumakiBOT03/29/2019
+:up:  |  HiveMindfullness leveled up!
+
+Peter J03/29/2019
+1. The Elder Thing in the Pit controls the minds of its slaves. They don't want to leave, and any who manage to shake off the control and try to escape, the other thralls attack. Those scars on his body come from when he escaped, though Irontooth never talks about the scars the Elder Thing left on his mind.
+Tam03/29/2019
+2. There's a lizard thing down there, as big as a dragon, dead white and eyeless, but it can smell your greed and it has claws and fangs like sickles.
+Halsver03/29/2019
+3. Gfoughnn the Bound had a terrible habit of keeping track of time using other prisoners. Old Irontooth was lucky to be picked for counting the months, those picked to count the hours on rarely lasted a week.
+caiphon03/29/2019
+4. Ol' Irontooth claims it was some enormous, ancient, rusty machine, still spinning like mad and sharper than a bladeling's fingernail. Some gnoll myths about the pit offer corroboration - according to legend, the dread pit was made by an even worse dwarven war machine, the dreadful bore. Perhaps it's still down there...
+Thomas03/29/2019
+5. A great crevice opened up beneath him and the jagged rocks tore him up as he fell.
+Torin_Blood (GMT-6)03/29/2019
+6.   There be a wicked creature there all metal and gears a thing of the past still walking it's path an eternal guardian of an already stolen treasure.  Mindless it harms all who it sees, relentless it is and godwrought it must be for no sword nor spear can harm it.
+~~~
+The parties scale a winter shrouded mountain to the summit which holds the last temple to a near forgotten god of renewal and storms.  When they get to the top what do they see, taste, and hear? (d6)
+Tam03/29/2019
+Nooo, we're still exploring the pit!
+We haven't even gotten to the treasure yet!
+... meanwhile, the B-Team...
+1. Lightning, fierce strikes of it, that taste like ozone and remind you of your worst nightmares. You can see one of those nightmares, now, in the corner of your eye.
+Burch03/29/2019
+2. Lightning rises in to the sky from the ground in the centre of an altar carved in to the top of the mountain An abomination made of lightning and static claws it's way out of the ground, arcing it's vaguely humanoid back in pain before it explodes, the electricity returning to the earth as it is grounded. You can feel the static on your fingertips and taste ozone.
+Jaces (UTC-4)03/29/2019
+3. They find themselves at the bottom of the very same mountain, their own footprints still visible in the snow.
+Peter J03/29/2019
+4. Eldritch gears and clockwork. Opening the way inside requires understanding how this advanced machinery works--and being able to harness the lightning storm overhead to power it.
+Thomas03/29/2019
+5. They feel the strength of the constant wind, the  bite of winter's chill, and the kiss of snowflakes melting on their exposed skin.  They hear the cry of eagles flying far overhead, only specs amongst the shining sun.  They see more mountains before them, though not as tall, and their destination beyond the mountains, within their reach yet yet still so far away.
+caiphon03/29/2019
+6. the taste of juniper berries - up here, in the eye of the storm, despite the snow, the mountain top is lush with small trees and flowering plants. A small grove by the temple door looks especially heavily-laden with tree fruit.
+Burch03/29/2019
+There's another faction at play in the Dread Pit who are currently neutral to you. Who are they, and why are they in the Lich's domain? (D6)
+Tam03/29/2019
+1. Erden the Rotting sought immortality and only achieved a sort of perpetual falling apart but not quite dying state. He's collected a few trinkets he's willing to sell and left quite a few pieces of himself in traps around the place.
+caiphon03/29/2019
+2. The Cobblescale Clan, the remnants of a clan of kobolds whose dragon was turned into a dracolich by Zeiram. They've snuck into his lair in search of revenge (and maybe restitution in the form of loot).
+Thomas03/29/2019
+3. A group of colonists have decided that this is the perfect place to build their new village.  Children play in the streets while their parents erect dwellings and plant crops.  Maybe they have some spare food or supplies?
+caiphon03/29/2019
+4. The crew of the Accretion Disk, a ship of the celestial sea that somehow crash landed underground in the prime material. The captain, a Dust elemental, has gone missing, and the dimensional alignment matrix appears to have been deliberately tampered with. They've hunkered down for repairs, but will begin sending out search parties soon.
+Leadlight03/29/2019
+5. The Unchained Dead, when the rival necromancer, Grimfall, released some the rotting horde of the lich from their bondage he also returned their sense of identity and free will. They’re not very trusting of outsiders, but perhaps you can gain their confidence?
+Slothman03/29/2019
+6: The soul vampires. A group of strange outsiders to our world, holding items and powers beyond comprehension. They are willing to trade this power...how much is your soul worth to you?
+The dread pit holds many treasures and rewards, some beyond your wildest dreams. When you leave the pit victorious, what treasure do you find, and how is it going to betray you in the end? (D6)
+Thomas03/30/2019
+1. A friend!  They were a prisoner of the lich, subject to torture and experimentation.  You freed them and together you fought your way to victory.  Now you've forged a strong bond and they follow you in your adventures.  But neither of you know about the lingering effects inflicted by the lich's dark powers, and how they are slowly corrupting your new friend...
+Burch03/30/2019
+2. A sword with a blade the size of a surfboard that the lich fought with using their undead strength. It absorbs the soul of whoever it kills. The lich was using the souls for power - issue is, now they're just accumalating with nowhere to go, and that's going to cause a problem.
+Helicity03/30/2019
+3. The Lich's Grand Grimoire. This massive tome is almost two feet tall and bound in iron and suspicious leather. It contains centuries worth of dark knowledge and spellcraft. But the Lich was no fool, many of the written formulas contain intentional errors to bring ruin on would-be thieves.
+Peter J03/30/2019
+4. The lich's alchemy lab has all kinds of rare and useful reagents and apparatus, just waiting for a new owner. There's even his notes on how to become a lich yourself...
+caiphon03/30/2019
+5. An enchanted necklace, with a set of 3d4 long, white chalcedony crystals, carved to look like bones. When you break a crystal and then point at a creature, a jet black beam of energy erupts from your finger and breaks a bone of the creature you pointed at (the bone you pointed towards). When the last crystal is broken, several of the wearer's bones break (chosen randomly by the GM).
+Burch03/30/2019
+6. The lich had a familiar who's soul is trapped within a glass orb. It paces from one side to the other impatiently like a caged tiger, taking whatever form it fancies. It has a wealth of knowledge, but it surely holds a grudge against you killing its master.
+---
+Welcome to the build-a-lich workshop! Zeiram the Lich rules the Dread Pit. If our adventurers are successful, Zeiram's mortal form will perish, but their soul cannot be killed until their phylactery is destroyed. What form does their phylactery take, and why is destroying it a difficult task? (2d6)
+caiphon03/30/2019
+2. One of the many teeth of "Toothy", Zeiram's reanimated Tyrannosaurus Rex, housed in the pit's menagerie.
+Peter J03/30/2019
+3. The phylactery is the heirloom weapon of the party warrior. Zeiram was his ancestor.
+Helicity03/30/2019
+4. The phylactery isn't here. Or more accurately it isn't now.
+Burch03/30/2019
+5. The phylactery is a loved one of one of the party members. The lich puts his soul in to a new body every time a host dies, and he had divine enough of the future to predict that this form woukd be useful.
+Zarynthine03/30/2019
+6. Zeiram's phylactery is the Dread Pit itself.  The entire dungeon must be destroyed in order to bring him to his final death.  Of course, the Pit has plenty of adventurers inside it as raw materials for him to begin rebuilding...
+7. Zeriam ''s. Phalactery  is a clockwork mouse that must be disassembled to destroy it.  The mouse is made of seven different clockwork gears each made of a different metal.  Each gear holds a riddle written in an ever shifting script until someone speaks aloud the secret whispered to the gear by a different criminal who went to their grave unpunished for their crimes.   Once the secrets are all spoke and the riddles each answered then seven different blacksmiths must place the clockwork mouse in their forge for a day and a night to destroy a gear each.
+Thomas03/30/2019
+8. The phalactery is a child's doll, modest and worn.  Why was this doll so significant to the lich?
+cromlyngames03/31/2019
+9. The phylactery is a battered pile of papers inscribed with the rules of this world and lost in another plane
+caiphon03/31/2019
+10. The phylactery is the city Adelma, on the coast. Back when the city was founded, Zeiram became the city's patron, and a powerful ritual has bound Zeiram's soul to every building and living thing in the city.
+Thomas03/31/2019
+11. The phylactery is a large, glowing amythest embedded within the body of the lich's undead lieutenant... and it's getting away!  Quick, after it!
+screbuts03/31/2019
+12. He found a way to bound his soul not to an object, but to a more social construct. The foundation of democracy in the land is keeping him alive. Although the gods did not foresee someone bending their rules like that they are determined to allow this construct to also stand as a phylactery.
+
+--
+Zeiram's death has triggered a contingency spell, transporting the players to a dangerous new locale.  Where is it, and what dangers immediately threaten the party? (d6)
+Helicity03/30/2019
+1. A sweltering jungle...of giant mushrooms. Over head looms a giant red moon in a pitch black sky, bathing the area in an unwholesome crimson light.
+Tam03/30/2019
+2. A vast cavern, with fleshy walls, filled with a lake of bubbling green acid. The skeleton of a massive snake lies half-submerged in the middle, beneath dozens of bat-winged shapes hanging from the ceiling. You feel a sense of motion.
+Torin_Blood (GMT-6)03/30/2019
+3. The top of a zigguraut made of fiercely cold blue ice that stands in the middle of a desert where the sand occasionally catches fire.
+Leadlight03/30/2019
+4. A vast sprawling building filled with non-Euclidean architecture. All sense of orientation is lost as your mind attempts make sense of the world around you.
+caiphon03/30/2019
+(is the phylactery still a 2d6 table? should we go 7-12?)
+Tam03/30/2019
+Let's do the last two on this one and then go back to it.
+5. The heart of your old village, but everything is weathered and dirty. It's been exactly fifty years since you last set foot here.
+Torin_Blood (GMT-6)03/30/2019
+6.  Placed on a goblin flotilla enroute to invade your kingdom.
+
+
+------
+Tam03/31/2019
+Far above the Pit, on the mountain in a temple of a lightning god, the adventurers have finally breached the altar. What lingering curse awaits those who touch it? d66 (d36)
+Torin_Blood (GMT-6)03/31/2019
+1.  The first through are cursed with a voice that booms like thunder.
+ExtantLily (GMT+8)03/31/2019
+2. Those that pray at the altar have the lingering power of the god course through their veins - the discharges of static electricity from their fingers are now lethal - they may never again know the touch of another without fatal consequences
+Torin_Blood (GMT-6)03/31/2019
+3.  The act of desecration angers the last eternal servant of the forgotten diety,  a storm elemental will follow them all the rest of their days. Tormenting them by killing all they love but never killing them.
+ExtantLily (GMT+8)03/31/2019
+4. Anyone who touches the altar has their hair supercharged and turned into a fabulous afro
+O_Pimentinha (GMT -3)03/31/2019
+5. Those who touch the altar will suffer from sporadic and sudden lightning-fast and paralizing flashes of visions, from the past or future? who knows..
+Thomas03/31/2019
+6. Whenever those who are cursed are caught in bad weather, the god strikes them:  in a rainstorm, they will be struck by bolts of lightning; in a blizzard, their bodies will begin to freeze into cubes of ice; in a heat wave, their clothes will ignite; etc.
+ExtantLily (GMT+8)03/31/2019
+7. They become magnetized and start attracting all metal into the vicinity towards them - this is a passive, uncontrollable effect.
+Tam03/31/2019
+8. An inability to ever tell the truth again, courtesy of the cultists who infiltrated and defaced the altar in an attempt to summon their mad god.
+Thomas03/31/2019
+( @ExtantLily (GMT+8) @Tam Aren't those supposed to be 2-1 and 2-2 ?)
+Tam03/31/2019
+No biggie. I am pre-coffee.
+ExtantLily (GMT+8)03/31/2019
+oh mb
+Burch03/31/2019
+9. Their source of sustenance is changed from food and drink to electricity - once a week or once a month (GM's choice) they must be hit by a lightning bolt to continue living, or a similar discharge of electricity.
+Peter J03/31/2019
+10. The weather steadily changes around them if they remain still for any long period of time. After a week in the same location, it becomes overcast until they leave. After two weeks, it becomes non-stop rain. Three weeks, non-stop thunderstorms.
+Thomas03/31/2019
+11. Every few minutes you have the sudden urge to sneeze, and every time you almost do, but not quite.
+Torin_Blood (GMT-6)03/31/2019
+12. The last place you sleep will always be struck by lightning in the next storm in the area.
+Burch03/31/2019
+13. You can speak the language of electricity. You can understand what static, sparks and lightning bolts think and say - the issue is that this is usually hellbent screaming due to their incredibly short lived lives.
+caiphon03/31/2019
+14. A howling wind accompanies them wherever they go, even inside and deep underground; the wind is always loud and cold, making stealth and travel difficult at the very least.
+Thomas03/31/2019
+15. You, and all your travelling companions, and teleported to a strange and unfamiliar place.  Maybe it's a prison, and you have to free yourselves.  Maybe it's a puzzle, and you have to solve it to return home.  Or maybe it's a hostile realm, and you must fight for your lives.
+caiphon03/31/2019
+16. Every time you meet someone new, a short, unpleasant shock of electricity jumps from you to them. It's never lethal, but it is guaranteed to make a terrible first impression
+Peter J03/31/2019
+17. The thunder that comes after lightning means something. Now you know what--and it knows you know.
+caiphon04/01/2019
+18. You're followed by a significant storm of blue lightning - an interplanar signal marking you as anathema to the gods and their servants.
+Burch04/01/2019
+19. Your teeth are replaced by fingers of comparable length, each of which has exactly one knuckle and finger nails which need as much maintenance as your original ones.
+Halsver04/01/2019
+20. A vision appears of an ancient monk, who sat upon this peak long before the altar. His eyes open and a piercing light shoots straight trough you! You know something, something important. Maybe the right question will bring this knowledge out of your subconscious...
+Thomas04/01/2019
+21. There's a never-ending song playing in your head, and you just can't stop dancing to it!  Sure, you can still talk, and run around, and swing your sword, but you can't do any of it without also waving your arms, spinning around, or doing the splits once in a while.
+----------
+22. You are voraciously hungry all the time.  Unless stopped, you consume all available rations within minutes.  If no food is immediately available, you go wandering off to find some, even if that means separating yourself from your companions or putting yourself in an obviously dangerous situation.  You'll eat anything that looks remotely edible, even if it's rotting or poisoned.
+----------
+23. You are now a fanatical follower of the god.  You regularly shout praises to the god, including at the worst possible times, and find ways to discuss your devotion to the god in your everyday conversations.  You constantly try to convert others around you to worshippers of the god and become aggressively hostile against anyone who says anything negative about the god.  During your downtime, you seek to celebrate the god by writing hymns, crafting statues, or undertaking other endeavors, even if you're not very good at doing it.
+Helicity04/02/2019
+24. whenever you stay in any location for more than a day, a terrible lightning storm begins to gather, the storm worsens day by day until floods and lighting strikes lay waste to the entire area after 3 days. When you leave the area the storm dissipates in a few hours.
+Burch04/02/2019
+25. You can only speak in rhyming couplets, and all language to you becomes intelligible unless it is delivered to you in rhyming couplets. Half-rhymes are on thin ice.
+Halsver04/02/2019
+26. Salt, you need it. You need it now and you need to eat it frequently. If you go without salt for more than a few hours all of your muscles begin to cramp, a day and you fall unconscious. Though you may now drink saltwater as if it were fresh.
+Burch04/02/2019
+27. You have become an earth rod. Whenever there is lightning, from storms or otherwise, it heads straight for you. Your resistances and vulnerability to lightning is not affected in any way - good luck navigating a storm!
+Halsver04/02/2019
+28. Somewhere, far from here, was an object sitting upon an identical altar. This altar imbued you with a magnetism that is drawing the object ever closer to you. Roll 3 d6, one die represents the weight, one die represents the acceleration, and the last die is how many hours until it collides with you. You choose which die is which.
+caiphon04/02/2019
+29. The God of Storms died, and the path of succession is unclear. By approaching the altar, the players have indicated that they would like to make a claim on the divine portfolio. Unsuccessful claimants are usually disposed of by the eventual deity as a matter of course.
+30. The Altar was cursed by the God of Storm's long time rival, the Goddess of Good Weather. The curse was meant as a prank for deific beings, so its strength is tuned a little high for mortals - roll on the table again, and double the effect of the result.
+Tam04/02/2019
+Six more entries!
+Torin_Blood (GMT-6)04/02/2019
+31. A simple curse awaits, each is branded by Lichtenberg figures across their faces. When they die, their body will cause an apocalyptic thunderstorm those who die in the storm will be used as fuel to bring the god back from the void.
+Marcus04/02/2019
+32. Every time you touch something metallic you receive a static shock. It's strong enough to cause you to jerk back in pain (likely with a curse), but not enough to do any actual damage.
+33. you receive an unmistakable mark in a highly visible location (face, hands, or similar) that unmistakably marks you as a servant of the lightning god, for better or worse. What's more the God will actually treat you as his servant, issuing commands on a whim and threatening grave punishments if you fail to comply.
+Leadlight04/02/2019
+34. Those foolish enough to touch the altar are made Holy by the altar itself as it transforms their body into a living conduit to the Planes of Thunder. They find their flesh begins to randomly spark and jolt as the scent of ozone constantly follows them. Their skin will eventually slough off to reveal that beneath they are becoming pure Holy lightning.
+caiphon04/02/2019
+35. the bodies of those afflicted this way evaporate in bright sunlight, and become part of the local water cycle. They are trapped as clouds until the next precipitation, whereupon they are brought back to earth and can become corporeal again.
+Torin_Blood (GMT-6)04/02/2019
+36. The Thunder God Awakens and Smites the interlopers with divine fury.  The mountain explodes.   And all the world trembles again at the rage of the Storm God.
+Thomas04/03/2019
+The PCs enter a new room in the dungeon/building/etc.  What's inside?  Describe the sights, sounds, smells, and any other specifics you want.
+Helicity04/03/2019
+That's an awful broad prompt
+Torin_Blood (GMT-6)04/03/2019
+Too broad.
+Halsver04/03/2019
+Thoughts on limiting these to 1-2 d6? 6 d6 felt like a grind!
+Torin_Blood (GMT-6)04/03/2019
+Indeed
+Back in the pit, the lich is defeated for now, but they cast a perfected spell of death before they were defeated.  What is the spell and why did they send it at the kingdom of Fairvale ?
+
+2D6
+Thomas04/03/2019
+@Helicity @Torin_Blood (GMT-6) I'm sorry you didn't like my prompt.  In the future, I would appreciate if you were a bit more polite about it.  Thanks.
+Helicity04/03/2019
+@MT86 I wasn't being rude? I just said it was awful broad?
+If that came across as anything but questioning if it was too broad, I apologize
+Thomas04/03/2019
+Sorry, you're right.  I was just taken aback by how quickly we pivoted.
+Helicity04/03/2019
+I probably should have put awfully broad to prevent confusion, no worries!
+Tam04/03/2019
+Ha, yeah, definitely "awfully".
+I mean, the word!
+moogatronic04/03/2019
+I better throw out my idea for the d10000000 table before you post the guidelines!
+Tam04/03/2019
+LOL
+moogatronic04/03/2019
+I really like those row/col d66 tables tho.  that was a TIL (for me) when you posted the example.
+Tam04/03/2019
+If you make the last entry, you get to do the next prompt! Choose 1, 2, or 3 d6 (discuss bigger in general first). If you don't prompt within an hour, anyone who sees it can prompt!
+
+* Keep to the current region, If you think the region's about done use your prompt to finish it off with a "end boss loot" or "what happens next" type prompt.
+*  Use an element from the last table as inspiration, if you can.
+* Favor the specific over the general, the evocative over the simple. But try to keep your entries concise.
+
+Discuss in #general if there's an issue, and have fun!
+Tam pinned a message to this channel. See all the pins.04/03/2019
+Tam04/03/2019
+Let us begin anew, slightly!
+The explosion flings those around the altar far and wide, but leaves no one seriously harmed! Give 2d6 strange circumstances that miraculously save our heroes! (2d6)
+Halsver04/03/2019
+1. Well crap! The explosion sent you hurtling into the largest pile of dung you have ever seen. It broke your fall nicely, but getting that smell out of your equipment may take a while! Hurry off now before whatever made this crosses your path!
+wilkieds04/03/2019
+2. Shockingly, while all the civilians were thrown backwards, thudding onto the stone floor of the chapel, our heroes remain suspended in mid-air, and mid-flight, arms, legs, and faces frozen in a flailing panic. The Chaplain also remains aloft, his arms spread wide as he concentrates on his next spell...
+Burch04/03/2019
+3. The explosion had some serious magical energies inside it, and has teleported the future. Roll a d4 - on a 1, they're teleported minutes, on a 2 they're teleported days, on a 3 they're teleported years and on a 4 they're teleported decades. Roll 2d6 - that's how many units of time forward they move (e.g., a 3 and then 7 would teleport them 7 years in to the future).
+caiphon04/03/2019
+(if I understand this right, Halsver is 2, wilkieds is 3, and Burch is 4?)
+5. The players were caught by the cloud giants of the temple. They look perturbed that the altar was destroyed.
+Tam04/03/2019
+Yep, just count from here.
+You got this.
+Burch04/03/2019
+6. The players' bodies were incinerated in the blast, along with everything else in the surrounding area. Their souls, however, were not. The GM may decide the mechanics of finding new bodies - you may wish to draw inspiration from sources such as Scooby Doo: The Movie, Your Name and Big.
+Torin_Blood (GMT-6)04/03/2019
+7. of all the things to be saved by,  being caught in the air by a dragon's claw was not what anyone expected.   Vrieracelet the melodious  will demand the players sing and dance for an hour in exchange for saving them.  And no one wants am angry dragon...
+moogatronic04/03/2019
+8. As you fly outward from the core of the explosion, you notice that you're covered in a sticky, gooey, and thick marshmallow like substance. This cushions your fall but now you're stuck to the floor.
+Tam04/03/2019
+9. It's a ridiculous comedy of errors -- you bounce off walls, tree branches, a yeti, and four different strategically placed yurts before fetching up at the feet of a cranky old man who wants a favor.
+Halsver04/03/2019
+10. You fly through the air with the greatest of ease, just then you look down and see an outdoor trapeze! The stands are filled will excited fans who cheer and gasp as you grab hold of the bar, which torques and then snaps with the force of your fall. However, your triple flip double corkscrew garners a standing ovation when you stick the landing!
+caiphon04/03/2019
+11. The explosion was accompanied by hurricane gusts of wind, causing everyone to gently fall to the ground. However, the wind storm threatens to tear the entire temple off the mountain face.
+Halsver04/03/2019
+12. The floor and room around you explode outward sending everything flying into the air for a few terrifying beats before everything seems to slow down. For a brief moment you are weightless as everything becomes still. Then the sudden expansion begins to reverse, the far flung walls rush back towards you, the floor and ceiling contract and darkness consumes you. The entire montain collapses in mere moments into a small glass marble. You awake to realize you are no longer on your own plane of existence!
+
+---------
+Stunned and disoriented the adventures awake to find themselves transported to a strange land. What surprisingly friendly creature approaches and invites them into their home? [creature and dwelling] (1d6)
+Tam04/03/2019
+d6.
+Leadlight04/03/2019
+1. You find yourselves flung into a great wide spiderweb! A many limbed figure begins to approach you with its eight eyes. It skitters to you as you shout and yell to each other for help, but instead of digging into your flesh with its mandibles it cuts you down from the web and offers you fly soup! It’s not everyday Sharlia the Chitinous gets guests.
+caiphon04/04/2019
+2. The adventurers stumble awake in a puddle of ooze! But instead of dissolving into their component parts, it just tickles a little. The ooze coalesces into a lump and begins talking. Introducing themselves as Sauncy, the burbling ooze invites the adventurers into their slime hutch, made in the tunnels just below.
+Torin_Blood (GMT-6)04/04/2019
+3.  As the view fades to black the party is brought to their senses suddenly by a riot of sound and music.  Before them stands a troop of frogmen on parade.  The parade leader, Gulper The honorable Gulp Gulp ,  invites them to join the parade through the city of  SploshisSplashis Home to the Amphi Empire's largest Temple to the great lake of life.
+caiphon04/04/2019
+4. With a blinding flash, the party finds themselves tumbling through the clouds on the back of a beautiful couatl! The brilliant, winged serpent deposits the party at a castle in the clouds and welcomes them to Sarkuon, a haven floating through the astral sea (buoyed by powerfully Good planar energy). Inside is the Angel Othalim, who abandoned divinity to protect this oasis.
+Halsver04/05/2019
+5. The sound of dripping water echos off of the close walls, our adventures light a torch and see the smooth curved walls of a sewer. The dripping sound is drowned out by thunderous sound of rushing water. "Quick this way!" A voice calls down and a rope ladder appears and they rush to the safety of a dim corridor above the flooded sewer. Opening into a great torchlit cavern your beady-eyed host welcomes you to Gasstarat, undercity of giant rodents!
+caiphon04/05/2019
+6. The portal cracks closed with a sound like thunder and the smell of brimstone. The air is hot and damp, and the sky is as dark and murky as pitch, but for a dim fire burning. A grandmotherly imp, with deep wrinkles and twinkling eyes is warming her hands by the fire. "Oh, more o' you" she says. "Name's Zadalba. Welcome to hell. Got a hut over there. Why don't we get you lot something to eat."
+---
+After enjoying their unlikely hospitality, the party sets out to find Flinder's Phenomenal Fortress, a dungeon that exists simultaneously on several different planes. What form does it take on this plane, and when and how can it be found? (d10)
+Torin_Blood (GMT-6)04/05/2019
+1. Flinder's Phenomenal Fortress  looks like a large Yurt. It's sides stained with images of great hunters of artifacts questing.   It can only be found in fields untouched by moonlight  next to a tree struck by lightning.
+Halsver04/06/2019
+2. High in the canopy of the divided forest, Flinder's Fortress spans across hundreds of platforms. They sprout from the trees naturally and many creatures call them home. To reach the Fortress you must travel deep into the forest and climb many a tree until you find the outer palisade.
+caiphon04/06/2019
+3. In this plane, Flinder's Fortress appears as a massive, fallen tower. Its sideways rooms seem to rotate with the seasons, slowly rolling it back and forth. The door at the base is revealed once every five days, and the tower can easily be found by following its deep tracks made as it rolls through the northern plains.
+Megan04/06/2019
+4. Flinder dreamed up this fortress -- literally. Inspired by their dreams, it is a series of endlessly connecting rooms, chaotically interspersed with doors to nowhere, upside-down stairs, and 5 foot drops from room to room. Be on your watch, because those dreams were actually nightmares; all sorts of hostile creatures lurk just beyond your sight.
+Slothman04/08/2019
+5. Flinders Fortress is a palace unlike any other. Massive arches and opulent craftsmanship are the norm, the towers shine like gold and the ramparts sparkle with diamonds. When the full moon rises, those who stand on the peak of Mount Garien are shown a star in the sky that burns blue and green, and following that star leads them to the Fortress.
+Torin_Blood (GMT-6)04/09/2019
+6. Flinders fortress is a hole.  But not a damp dirty hole. No it is a citadel you can only gain access to by a small hole in the top.  As you descend the area of the citadel grows larger and larger and larger.  Each floor is a larger version of the floor above it.  What looks like a finely crafted model city on the first floor   becomes a halfling city in the 8th floor, a human city on the 12th floor. And a giants city on the 24th floor.   No one has ever quite made it beyond the cavernous buildings of the 40th floor. To find Flinders fortress all you must do is dig a small hole and say Flinders Keepers  and then hop in.
+Keon04/09/2019
+7. Flinders Fortress was once a minor kobold camp, preying on nearby towns and defending itself with elaborate traps and rough barricades. Nobody quite knows why, perhaps a ritual gone wrong or the wrath of a poweful mage, but one day Flinders Fortress was torn asunder, tearing and ripping wood, stone, gravity, and even the planar fabric itself in impossible ways. Of course, the kobolds inside refused to perish and have adapted quite well to the impossible hallways of their extraplanar home. And filled them with new traps, of course. You can recognize Flinders Fortress by the spiderweb of cracks in the sky around it or the crudely painted signs that say "Kobolds only! Keep out!". The entrance is still there, but keep your wits about you.
+Peter J04/09/2019
+8. Flinders Fortress is  magically protected  against intruders by shifting it between dimensions. As such, it does not wholly exist in this plane and cannot be accessed without an appropriate gate. The gate must be constructed of selenium and marked with appropriate runes of travel, and powered by a sufficiently strong energy source. The gate must also be located in a place where the barriers between dimensions are at their lowest: the polar ice caps while the aurora borealis is in the sky overhead. As for getting back after you go through the gate, well... you're on your own there.
+Torin_Blood (GMT-6)04/09/2019
+9. Legends tell of Flinder and his greed.  To store his wealth and keep it safe he built  a large vault. Lead coated, cold iron bound, with runes of protection and hiding etched by any who knew of one not already on the vault. But It was never enough security.  It grew and grew , mazes and traps and bound servants. Mage after mage Flinder sought out to  protect his treasure and if he could get to the treasure the mage would be slain.   The last mage Flinder sought out played a cruel trick on him.  Flinders vault is there still fortress sized but only appears in the reflection of blood from a person who had no wealth at all.  To access it all a person must do is give away all their wealth to a church that helps others then  bleed enough on a bright sunny day to create a reflective surface on the ground and step through.   Getting out is much easier all you have to do is walk out of a mirror.  Though who knows where you might end up.
+Leadlight04/11/2019
+10- Flinders Fortress lies within the body of a kraken that swims through through the Thunderous Sea. Within the creature’s stomach a thousand ruined ships are patched together in a ramshackle mockery of a city by the mermen parasites that inhabit it. To find Flinder’s Fortress you must sail out in the open sea and commit some sort of sacrilege against Neptune himself, that he may send the kraken to punish you for your sin.
+
+Deep inside Flinder’s Fortress a great treasure awaits those who brave delve its many forms. What treasure awaits you at the end and how is it specific to the iteration of Flinder’s Fortresses you find it in? (D6)
+Peter J04/11/2019
+1. All the mineral wealth you could ever need. Not simple gold or silver, but instead highly refined elements useful in magical processes, like tellurium.
+Halsver04/11/2019
+2. The greatest works of the lost civilization's great scholar n'Dyre are held deep in the library there. It is said the lost civilzation's works were so magnificent the gods smote them in their envy!
+Helicity04/11/2019
+3. At the center of the fortress sits a colossal furnace machine-temple meant for forging great weapons, some say in the core of the furnace lies a mystical gate to the heart of a dying star.
+caiphon04/11/2019
+4. Flinder's Fortress is actually a prison of sorts, meant to keep a forgotten deity, born of the commingled beliefs and desires of the planes the fortress exists on, safe from harm until they are grown into godhood. Although still an infant, the deity is already powerful enough to grant one wish.
+Torin_Blood (GMT-6)04/11/2019
+5.  The treasure of Flinders Fortress is time itself.  In each  iteration of Flinder's Fortress you will find a single Gateway with a large clock whos hands can be moved. You can wind the clock backwards or forwards.  Each minute is one year.   each hour is one century.  each full 24 hours is 1000 years.     You can view through the gateway any location by speaking its name and see time pass backwards or forwards.  You can step through the gateway at any point.
+caiphon04/16/2019
+6.  At an odd, undecipherable interval, one of the fortress' many doors glows strangely and leads to a small crafted plane, about the size of a large town or small island. It's filled with workshops and arcane tools and all sorts of oddities and rarities - maybe it's Flinder's personal pocket plane? The true treasure is hidden inside -the spark of a plane that didn't ignite, but is still filled with protean elemental and alignment energy. It could become anything, even another outer plane!
+Helicity04/16/2019
+There's a ghostly ship, they say, that sails the seas of many worlds. It passes by these shores once every hundred years. Who made the ship? And for what purpose does it keep sailing? (D12)
+Uncle Sporky04/16/2019
+1.  The Ghost of the Ship That Never Was transcends time and space.  Its blueprints will be conceived 1000 years from now as the magnum opus of a terminally ill naval architect.  He will unfortunately pass away before they can be drafted, but so powerful is his desire to see his creation constructed that his lingering consciousness continues to drift along the currents of existence in the form of this singular, perfect ship.  Anyone brave enough to go aboard may discover its spectral blueprints, and be granted the knowledge and resources necessary to begin the architect's final work, that his will may finally rest.
+Peter J04/16/2019
+2. The "Pride of Rezeliah" was made by the Rezelian Empire as their flagship. Of course, the Empire collapsed centuries ago. The Admiral of the Rezelian Navy boasted that the new state-of-the-art navigation system on the ship would prevent the ship from ever getting lost. And since it was made of diamond, the Shadow Thief couldn't resist. By the time the burglary was noticed, it was too late. The Shadow Thief not only stole the diamonds, but she also stole the ship's ability to navigate. Only the vengeful spirit of the Admiral, determined to earn back his honor, keeps the ship afloat.
+Burch04/16/2019
+3. The Under-Ship was built by mer-folk after their first contact with the air-folk. Taking inspiration from their ships, they built boats just like the air-folk did to enable faster travel around the sea and from colony to colony. They have sails that catch the water currents and the bottom of the ship crests the sea's surface to touch the air in a literal mirror image of a genuine ship. This particular is one of the few surviving galleons that belonged to Melfin Morrosis, a small-time captain who diligently continues along his supply route, getting supplies to small tribes who need them from the capital cities of the empire. Issue is, he's so diligent that he didn't stop, even after death, and he'll carry anything anywhere as he's lost all personality - the ship merely continues along it's supply route, allowing anything onboard and never stopping.
+caiphon04/16/2019
+4. The good ship Hellbreaker began its long career as The Flame's Mercy, a warship made by devils to fight in the Blood War. Not long into its first battle, the souls chained to the ship took advantage of the chaos of the fight to seize control, oust the devils, and take off. Piloted still by the brave captain Aiasha Timar, a minor heretic and revolutionary, the ship sails across the worlds, freeing souls and rescuing people in need.
+brotherspimm04/17/2019
+5. The locals call it “the Wooden Beast”, a strange low and long form seen gently plying the coastal waters under a full moon. There are few who now remember, but the old folk of the village speak of a curse: every hundred years, the shape turns upside down and reveals the monstrous crew of the Simon, faces and bodies bloated wracked with sea life. Condemned to live eternally beneath the waves, they say the faerie that cursed them allowed them one day a century to return to their old sins of rape, pillage, and murder before returning again to their eternal inverted patrol of the coast
+Sterbl04/19/2019
+6. The Glutton's pleasure yacht demands a feast from every port of call.  Particularly impressive guests and chefs are invited to travel along agelessly for 100 years, experiencing the best foods and frivolity the worlds have to offer.
+Halsver04/25/2019
+7. Ptehemeral's Planestrider was an experimental ship commissioned by the sages at Amberhook. Its purpose was to channel the power of ocean currents to travel to elemental planes. The experiment was a fantastic success on its maiden voyage and the sages gained great acclaim and riches. However, the second voyage was quite the opposite and the crew were never seen again. The sages of Amberhook squandered their riches and fled Amberhook. Many years later the Planestrider was reported seen again shinning in the moonlight, but translucent and ephemeral. It is said to still sail the seas, tacking along some unseen wind, not in this world entirely, but of it.
+Torin_Blood (GMT-6)04/25/2019
+8. The Marrow Galleon sails between worlds visiting a necromantic blight upon each.  The ship itself bears three masts the sails are made of three stitched together skins of defeated heroes who's torment empowers the Marrow to fly.  On each world its captain the necromancer Torin Bloodstorm performs the ritual of Marrow's Song.  It creates a small tower of bone which animates the corpse of any creature with a skeleton that lies within 50 feet of it.  Undead raised by the tower are given one of three commands. Slaughter all things that come near the tower. Search for and bring back all corpses to the tower. Lure creatures to the tower. The mad captain has turned worlds into necropoli and wants nothing more than to end all life.
+Uncle Sporky04/25/2019
+9. The ghostly ship that appears once every hundred years is not a ship at all, but camouflage to keep the locals from investigating the location where it materializes out at sea.  Once a century, the research facility of the mysterious Watchers must surface briefly for the purposes of maintenance, before quietly sinking again below the waves to continue its inscrutable vigil on the unsuspecting yokels.
+caiphon04/25/2019
+10. What appears to be the mysterious vessel Minotaur is actually a ghostly phenomenon. Every year, when the full moon rises for the first time after the spring equinox, a single plank of flotsam is possessed by an unearthly force, sending it flying across the waves. As it tears through the southern seas, it collects more and more pieces of detritus, until it resembles an enormous galleon, and occasionally, regal ghostly figures can be seen crewing the ship as it enlarges. If the Minotaur gets too large before being destroyed by the yearly hunt, it will gradually decompose during the autumn, eventually fading back down to another single plank by midwinter. However it is deconstructed, the last piece of it to hit the water will resurface next spring, beginning the cycle again. Strangely, each iteration of the Minotaur always manifests wickedly sharp horns of some sort, giving it its name, and providing the delusion that it's the same ship, year after year.
+Flo04/26/2019
+11. The Buyer's Remorse is the ship known to the cruellest, most sick of landlords, and industrious businessmen. Part ship, part amusement park, the crew of the ship knowingly sell cursed items to the desperate and the ravenous, and then collect the bodies of the victims, storing them in cells. Cruel rich folk finance the Buyer's Remorse's expeditions to acquire cursed items. In return, they have a way to legally indulge their penchant for inflicting pain and misery. They can give an apple to the man who can never not be starving, dance with the girl whose bones are brittle enough to shatter but forever doomed to rapidly repair, and poke the various shells of people who have long since collapsed into shuddering husks, left unable to die. Of course, what is never spoken is that the greatest cursed item of them all is the ship itself; dooming every customer who steps aboard to one day be reincarnated as a future exhibit.
+Sully544304/26/2019
+12. The  Sinner's Lament is a streamlined ship made of a metal that is not quite of this world... or even the next. It is designed never to be boarded by a mortal individual, for all those that set bare skin upon the metal will suffer the pain every crew member has ever experienced upon the ship and all the pain they have forced upon others. The Spirits aboard the ship are the dishonorable dead given a second chance in their otherwise incorporeal form. It passes by these shores every hundred years to mark the end of another centurial journey. Upon doing so, when bathing in the light of a Quarter Moon, one soul is allowed to depart- the Captain of the Vessel. Another Soul is placed onto the crew as they rotate a new Captain aboard.  They then leave this realm to repeat their endless journey until every dishonorable Soul has had a chance to redeem itself in the position of the Captain.
+
+---
+
+With that, a follow-up prompt:
+
+This ghostly ship is quite dangerous, and only the most foolhardy would dare board. If one was daring enough to find their way aboard such a ghostly ship, what item or boon would they first require in order to board with the utmost safety- obviating any and all danger for an otherwise death defying action? (1d6)
+brotherspimm04/26/2019
+1. With a few rare ingredients and a lot of bravery, one can prepare Koppenaal’s Hiding Hand, a powerful concealment spell whose physical focus is a tarred monkey’s hand (feet do not work; caveat emptor!). While held over your third eye, it renders you utterly invisible to ghosts—and any effect that relies on detecting life essence, even magical abilities. Depending on your skill, it lasts between 30-90 minutes... though if not crafted properly, the blockage of your pineal eye can cause profound psychological effects, even dreamlike hallucinations...
+caiphon04/27/2019
+2. With just a couple of the seedpods and leaves from the skullweed plant, a drop of seawater, and fresh fruit (of any variety, but fresher is better), a jelly can be made that, when applied topically, causes the subject to exude a strange slime. This ectoplasm acts as a naturally insulating material against necromantic magic, negative energy, and ghosts, and lasts for several hours (depending on the freshness of the fruit). It should not be eaten.
+Flo04/27/2019
+3. Caden Blight knew curses. He had studied them intensively, and was wise in the eldritch ways. A veteran cheater when it came to curses, he had studied the exact wording of the text. "Anyone who stepped aboard The Sinner's Lament", it would say. He went to his friend Patrick with some money, and a design. A ship. A small one, smaller than a person, with much space in the hull and wheels on the underside. When the day the ship would depart arrived, an unceremonious screeching could be heard. Rhythmic. Caden proudly skidded towards The Sinner's Lamet, with his feet inside this much smaller 'wheely-ship'. Long in to the night, there was a long debate about how, technically, he could never board The Sinner's Lament if he was the sole passenger of another 'ship', The Linguist's Folly. The captain had a real fun time explaining that one to Alz'Krthurnaz.
+HiveMindfullness04/30/2019
+4. The blade which slew the ship's captain and lead to the ship sinking beneath the waves. But the holder has now been made governor of the Silken Isles for ending the pirate menace, how will you get her sword?
+HiveMindfullnessLast Sunday at 9:28 AM
+Since my response is the only one made in the last week, does anyone mind me moving on the prompt?
+
+No ship sails without its crew and this is as true for ghost ships as it is the living. Whether they were aboard the ship when it sunk or joined its cursed crew late in its unlife, many souls find their home upon these decks. Who might you meet upon the ship and how did they join the crew? (1D6)
+Peter JLast Sunday at 9:57 AM
+1. Only mutineers are condemned to crew ghost ships, as only treason is considered a heinous enough sin to warrant such punishment. When a mutineer's corpse is thrown overboard, a ghost ship that passes by above where the corpse lies can fish the damned soul out of Davy Jones' locker and press it into service.
+Sully5443Last Monday at 10:16 AM
+@HiveMindfullness Absolutely , we can retroactively make my last prompt a 1d4 instead of a 1d6! :blush:
+
+So let’s see...
+
+2. You meet a long dead King... King Clarissa the Clever. How did she become King and not Queen, she has quite the story for that... More importantly, she found a way on this ghostly vessel with some arcane trickery and is trying to rend control of the ship away from her younger sister- Captain Diana the Dread Queen! Legend says King Clarissa had quite the trove in her years of rulership... maybe she’d be willing to share quid pro quo?
+TatsumakiBOTLast Monday at 10:16 AM
+:up:  |  Sully5443 leveled up!
+
+brotherspimmLast Monday at 12:48 PM
+3. As the decomposing bodies of the wretched crew totter on the ghost ship’s deck, you spy a healthy adult man walking among them! At the dockside tavern an old man tells you the tale: since the ghosts only care for slaughter, they rarely loot the ships they raid. A local wizard named Humphrey has mastered a spell that makes him appear as a ghost to ghosts and rides with them—taking everything of value he can from their wrecks. Is he mad? Evil? Where does he sell his wares? No one is certain.
+HalsverLast Monday at 2:28 PM
+4. A beautiful voice sings out from the spectral deck of the ship. The spirited melody is in stark contrast to the dreary appearance of the ghost ship. As she beckons you closer, you see upon the prow the form of a beautiful mermaid. She is of course the infamous Siren of Shearwaters! Her songs are so alluring not even the dead could resist. How she came to this position is uncertain, but it appears she is finally going on tour!
+caiphonLast Monday at 8:29 PM
+5. Looking glum and sighing loudly enough that he can be heard across the entire ship, Gundro Eirston, the ship's chef, can be found pretty much anywhere, since he's out of a job - ghosts don't need to eat. The crew has kept the melancholy dwarf on out of pity, and occasionally he is persuaded to cook up a fantastic phantasmal pantomime of a feast, but he soon sinks right back into his usual woe.
+Uncle SporkyLast Tuesday at 11:56 AM
+6. Wandering below decks, an illuminated, filigreed glass cage catches your attention.  A sign painted on the glass reads "FILIBUSTER, the Gamblin' Gremlin!"  Stepping closer, you notice the cage's occupant: a mechanical homunculus seated behind half of a gaming table.  He jerkily motions for you to take a seat at the other half, which protrudes beyond the cage.  The game is dice, the rules are obscure, and the stakes are likely to be much higher than most players would expect...
+
+---

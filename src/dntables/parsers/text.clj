@@ -25,8 +25,7 @@
 
 (defn parse-title [text]
   (or (second (re-find #"^[\[\(]\s?\d?\s?d\s?\d+\s?[\]\)]\s?(.*)" text))
-      (second (re-find #"^(.*)[\[\(]\s?\d?\s?d\s?\d+\s?[\]\)]\s?$" text))
-      ))
+      (second (re-find #"^(.*)[\[\(]\s?\d?\s?d\s?\d+\s?[\]\)]\s?$" text))))
 
 (defn entry? [text]
   (when text (some? (re-find #"^\d" (s/trim text)))))
@@ -55,6 +54,7 @@
                (cond
                  (source? line) (assoc m :source (->empty->nil (parse-source line)))
                  (author? line) (assoc m :author (->empty->nil (parse-author line)))
+                 (license? line) (assoc m :license (->empty->nil (parse-license line))) 
 
                  ;; Add the item to the items list.
                  (and collecting? (entry? line)) (if-let [item (->empty->nil (parse-entry line))]
@@ -72,6 +72,7 @@
                                                           :parsed (conj (or parsed [])
                                                                         {:title (:title m)
                                                                          :author (:author m)
+                                                                         :license (:license m)
                                                                          :source (:source m)
                                                                          :count (count (:items m))
                                                                          :items (:items m)})
@@ -87,6 +88,7 @@
               {:title (:title everything)
                :author (:author everything)
                :source (:source everything)
+               :license (:license everything)
                :count (count (:items everything))
                :items (:items everything)})
         (:parsed everything)))))

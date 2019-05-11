@@ -9,15 +9,11 @@ REPL for now, I'll add some command line stuff once I decide what options to hav
 
 ## Example Output
 
-Text from: http://www.goatmansgoblet.com/2019/04/ose-weapons-for-family-ties-by-damage.html
-
-All text Copyright Brian Richmond. Used here without permission to test table generation.
-
-[The PDF](/samples/d12example.pdf)
-
-[The FULL pdf](/samples/family-weapons-tables.pdf)
+[Goatman's Goblet Family Ties Weapons PDF](/samples/family-weapons-tables.pdf)
 
 ![(d12) d4 Damage Weapons](/samples/d12example.png?raw=true "d12 table example")
+
+[DW Discord D6D](/samples/d6d.pdf)
 
 ## Fonts
 
