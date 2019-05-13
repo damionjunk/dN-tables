@@ -55,6 +55,7 @@ d6 Damage Weapons [d12]
 12b. This arquebus from the gunnery works down past County Colm, made of banded iron and hard rosewood stock. A masterclass in efficient design, your [Relative] considers it to be a waste of money and hasn’t said a kind word about you since you bought it. [As crossbow]
 
 d8 Damage Weapons [d12]
+::fontsize -1
 1. A battle axe from the armory of House Nodwick, offered as a dowry to your [Relative]. The relationship was spurned, and the weapon never returned. It is of superior, noble, make. [As battle axe.]
 
 2. This flask of pungent oil was purchased by your [Relative] and left to obscurity in the cellar for several years. A painted label of red fruit and flames upon it speak to a perfidious purpose if properly used. [As oil flask, burning.]
@@ -93,6 +94,7 @@ d10 Damage Weapons [d6]
 6. This glaive is poorly shaped, having been used by your [relative] as a gondola whilst they plied smuggler work on the Lac. Some parts of its rust will never come clean, and its certainly seen better days; but what matters is that it is yours now and you won’t treat it so poorly. [As pole-arm.]
 
 Relative [d20]
+::fontsize +2
 1. Father
 2. Mother
 3. Uncle

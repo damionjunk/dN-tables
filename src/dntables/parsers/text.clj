@@ -20,6 +20,12 @@
 (defn parse-license [text]
   (second (re-find #"^::license\s+(.*)" text)))
 
+(defn fontsize? [text]
+  (when text (some? (re-find #"^::fontsize\s+[-+]?\d+\s?$" (s/trim text)))))
+
+(defn parse-fontsize [text]
+  (second (re-find #"^::fontsize\s+([-+]?\d+)" text)))
+
 (defn title? [text]
   (when text (some? (re-find #"^[\[\()]|^[A-Za-z!-.:$#@]" (s/trim text)))))
 
@@ -54,7 +60,8 @@
                (cond
                  (source? line) (assoc m :source (->empty->nil (parse-source line)))
                  (author? line) (assoc m :author (->empty->nil (parse-author line)))
-                 (license? line) (assoc m :license (->empty->nil (parse-license line))) 
+                 (license? line) (assoc m :license (->empty->nil (parse-license line)))
+                 (fontsize? line) (assoc m :fontsize (->empty->nil (parse-fontsize line)))
 
                  ;; Add the item to the items list.
                  (and collecting? (entry? line)) (if-let [item (->empty->nil (parse-entry line))]
@@ -73,22 +80,29 @@
                                                                         {:title (:title m)
                                                                          :author (:author m)
                                                                          :license (:license m)
+                                                                         :fontsize (:fontsize m)
                                                                          :source (:source m)
                                                                          :count (count (:items m))
                                                                          :items (:items m)})
                                                           :items []
+                                                          :fontsize nil
                                                           :title title)
                                                    m)
                  :default m)
                m))
            {}
            (line-seq rdr))]
+
+      ;; End of the file, there is probably data in the state map that needs added
+      ;; to items.
+      ;; 
       (if (pos? (count (:items everything)))
         (conj (or (:parsed everything) [])
               {:title (:title everything)
                :author (:author everything)
                :source (:source everything)
                :license (:license everything)
+               :fontsize (:fontsize everything)
                :count (count (:items everything))
                :items (:items everything)})
         (:parsed everything)))))
