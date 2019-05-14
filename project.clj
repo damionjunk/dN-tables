@@ -6,4 +6,5 @@
   :plugins [[nrepl/lein-nrepl "0.3.2"]]
   :dependencies [[org.clojure/clojure "1.9.0"]
                  [cheshire "5.8.1"]
+                 [selmer "1.12.12"]
                  [clj-pdf "2.3.4"]])

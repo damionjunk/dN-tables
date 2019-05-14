@@ -1,0 +1,10 @@
+% \shadebox{\hfill\quad\color{offwhite}\noindent\thdr{({title})}\hfill \quad}
+\begin{tabularx}{\linewidth}{c|X}
+\BlackCellNMC{D20} & \BlackCellNMC{({title})} \\
+(% for item in items %)
+  ({forloop.counter}) & ({item|latexescape}) \\
+(% endfor %)
+\multicolumn{2}{c}{\BlackCellNMC{Author: ({author|latexescape}), License: ({license|latexescape})}} \\
+\multicolumn{2}{c}{\BlackCellNMC{({source|latexescape})}} \\
+\end{tabularx}
+\newpage

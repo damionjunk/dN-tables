@@ -1,0 +1,40 @@
+\documentclass[12pt,letterpaper]{article}
+\usepackage[T1]{fontenc}
+\usepackage[table]{xcolor}
+\usepackage{tabularx}
+\usepackage[hidelinks]{hyperref}
+\usepackage[lmargin=12mm,rmargin=12mm,bmargin=11mm,tmargin=10mm,bindingoffset=0mm,heightrounded]{geometry}
+
+\newcommand\BlackCell[1]{%
+  \multicolumn{1}{c|}{\cellcolor{black}\textcolor{white}{#1}}
+}
+
+\newcommand\BlackCellNMC[1]{%
+  \cellcolor{black}\textcolor{white}{#1}
+}
+
+\newcommand\BlackCellFooter[1]{%
+  \cellcolor{black}\textcolor{white}{#1}
+}
+
+
+\definecolor{offwhite}{HTML}{ffffff}
+\definecolor{dark}{HTML}{000000}
+
+
+\usepackage{fontspec}
+\setmainfont{Book Antiqua}
+\setsansfont{Book Antiqua}
+\setmonofont{Book Antiqua}
+\newfontfamily{\thdr}{Duvall}
+
+\def\arraystretch{1.5}
+
+\begin{document}
+\noindent
+\rowcolors{2}{gray!25}{white}
+
+(% for table in tables %)
+  ({table})
+(% endfor %)
+\end{document}
