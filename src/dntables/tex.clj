@@ -8,7 +8,7 @@
             [dntables.parsers.text :as p]))
 
 (def escape-chars {\\ "\\\\" \{ "\\{" \} "\\}" \_ "\\_" \^ "\\^" \# "\\#" \& "\\&" \$ "\\$" \% "\\%" \~ "\\~"})
-(defn latex-escape [t] (s/escape t escape-chars))
+(defn latex-escape [t] (if t (s/escape t escape-chars) ""))
 
 (f/add-filter! :latexescape latex-escape)
 
@@ -30,10 +30,13 @@
   (spit output (-> (p/simple-reader source) ->document)))
 
 (comment
+
   
-  (->tex (io/resource "goatmansgoblet/familyweapons.txt") "resources/tex/go.tex")
   
-  (->tex (io/resource "dwdiscord/d6d.txt") "resources/tex/go.tex")
+  *e
+  (->tex (io/resource "goatmansgoblet/familyweapons.txt") "go.tex")
+  
+  (->tex (io/resource "dwdiscord/d6d.txt") "go.tex")
   
   (as-> "goatmansgoblet/familyweapons.txt" $
     (io/resource $)

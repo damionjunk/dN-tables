@@ -1,9 +1,16 @@
-\documentclass[12pt,letterpaper]{article}
+\documentclass[10pt,letterpaper]{article}
 \usepackage[T1]{fontenc}
 \usepackage[table]{xcolor}
 \usepackage{tabularx}
 \usepackage[hidelinks]{hyperref}
-\usepackage[lmargin=12mm,rmargin=12mm,bmargin=11mm,tmargin=10mm,bindingoffset=0mm,heightrounded]{geometry}
+\usepackage{ltablex}
+\usepackage[letterpaper, margin=0.5in]{geometry}
+\usepackage{fontspec}
+
+\setmainfont{Book Antiqua}
+\setsansfont{Book Antiqua}
+\setmonofont{Book Antiqua}
+\newfontfamily{\thdr}{IM FELL English PRO}
 
 \newcommand\BlackCell[1]{%
   \multicolumn{1}{c|}{\cellcolor{black}\textcolor{white}{#1}}
@@ -13,8 +20,12 @@
   \cellcolor{black}\textcolor{white}{#1}
 }
 
+\newcommand\BlackCellHeader[1]{%
+  \cellcolor{black}\textcolor{white}{\Large{\thdr{#1}}}
+}
+
 \newcommand\BlackCellFooter[1]{%
-  \cellcolor{black}\textcolor{white}{#1}
+  \cellcolor{black}\textcolor{white}{\scriptsize{#1}}
 }
 
 
@@ -22,11 +33,6 @@
 \definecolor{dark}{HTML}{000000}
 
 
-\usepackage{fontspec}
-\setmainfont{Book Antiqua}
-\setsansfont{Book Antiqua}
-\setmonofont{Book Antiqua}
-\newfontfamily{\thdr}{Duvall}
 
 \def\arraystretch{1.5}
 

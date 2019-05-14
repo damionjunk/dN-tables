@@ -101,7 +101,7 @@
               {:title (:title everything)
                :author (:author everything)
                :source (:source everything)
-               :license (:license everything)
+               :license (or (:license everything) "")
                :fontsize (:fontsize everything)
                :count (count (:items everything))
                :items (:items everything)})

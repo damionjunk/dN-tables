@@ -13,3 +13,5 @@ pom.xml.asc
 *.aux
 *.log
 *.out
+*.fdb_latexmk
+*.fls
