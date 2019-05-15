@@ -1,0 +1,129 @@
+\documentclass[10pt,twoside,openright]{memoir}
+%\usepackage{createspace}
+%\usepackage[size=pocket,noicc]{createspace}
+%\usepackage[paperwidth=4.25in, paperheight=6.875in,bindingoffset=.75in]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage[table]{xcolor}
+\usepackage{tabularx}
+\usepackage{ltablex}
+\usepackage{fontspec}
+\usepackage[paperwidth=5.5in, paperheight=8.5in,bindingoffset=.5in]{geometry}
+
+%\usepackage{mathpazo}
+%\usepackage[protrusion=true,expansion=true]{microtype}
+%\usepackage{type1cm}
+%\usepackage{lettrine}
+
+%\checkandfixthelayout
+
+% See the ``Memoir customise'' template for some common customisations
+% Don't forget to read the Memoir manual: memman.pdf
+
+%\title{TITLE OF BOOK}
+%\author{AUTHOR}
+%\date{} % Delete this line to display the current date
+
+\setmainfont{Book Antiqua}
+\newfontfamily{\thdr}{IM FELL English PRO}
+\newcommand\BlackCell[1]{%
+  \multicolumn{1}{c|}{\cellcolor{black}\textcolor{white}{#1}}
+}
+\newcommand\BlackCellNMC[1]{%
+  \cellcolor{black}\textcolor{white}{#1}
+}
+\newcommand\BlackCellHeader[1]{%
+  \cellcolor{black}\textcolor{white}{\large{\thdr{#1}}}
+}
+\newcommand\BlackCellFooter[1]{%
+  \cellcolor{black}\textcolor{white}{\scriptsize{#1}}
+}
+\definecolor{offwhite}{HTML}{ffffff}
+\definecolor{dark}{HTML}{000000}
+%\def\arraystretch{1.5}
+
+%% BEGIN TITLE
+
+\makeatletter
+\def\maketitle{%
+  \null
+  \thispagestyle{empty}%
+  \vfill
+  \begin{center}\leavevmode
+    \normalfont
+    {\LARGE\raggedleft \@author\par}%
+    \hrulefill\par
+    {\huge\raggedright \@title\par}%
+    \vskip 1cm
+%    {\Large \@date\par}%
+  \end{center}%
+  \vfill
+  \null
+  \cleardoublepage
+  }
+\makeatother
+\author{({author|latexescape})}
+\title{({doctitle|latexescape})}
+\date{}
+
+
+
+
+
+
+
+
+
+
+%%% BEGIN DOCUMENT
+\begin{document}
+
+\let\cleardoublepage\clearpage
+
+
+\maketitle
+
+
+
+
+
+
+\frontmatter
+
+\null\vfill
+
+\begin{flushleft}
+\textit{({doctitle|latexescape})}
+
+
+
+
+
+
+
+
+\bigskip
+
+
+
+
+
+License: ({license|latexescape})
+({licenseurl|latexescape})
+
+
+
+\end{flushleft}
+\let\cleardoublepage\clearpage
+
+\mainmatter
+\sloppy
+\noindent
+\rowcolors{2}{gray!25}{white}
+\def\arraystretch{1.5}
+\footnotesize
+
+(% for table in tables %)
+  ({table})
+(% endfor %)
+
+\end{document}

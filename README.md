@@ -1,7 +1,8 @@
 # dn Tables
 
 Some minor code to generate dN random tables in PDF format for various OSR RPG use.
-This is extremely basic for now, and for personal use, but a few people asked for the code so here it is.
+
+LaTeX or direct PDF output is supported. There is a lot more flexibility with your final form if you use LaTeX, since this tool simply dumps your tables into a container document which you must then compile with LaTeX if you want a PDF.
 
 ## Usage
 
@@ -22,6 +23,61 @@ TL;DR, the [DCC](http://goodman-games.com/dungeon-crawl-classics-rpg/) fonts:
 [Duvall](https://www.dafont.com/duvall.font)
 
 [Book Antiqua](https://www.wfonts.com/font/book-antiqua)
+
+[IM Fell English Pro](https://www.fontsquirrel.com/fonts/im-fell-english-pro)
+
+## LaTeX
+
+```
+xelatex output.tex && open output.pdf
+
+```
+
+## Input Text Format
+
+Source is a plain text file with one or more numbered random tables.
+Copying and pasting straight out of a discord channel works fine usually, depending on how the participants of the table generation entered their text. At the top of the file, you can add metadata as described below if you wish to have this in your final output.
+
+### Table Titles
+
+The following examples will trigger table capture:
+
+```
+[1d20] Gifts for a goblin king
+What happened in the alley behind the stables (2d6)
+(d66) Magical potions with temporal effects
+```
+
+The thing to note is that either at the start, or end of the line of the prompt, you must encapsulate the die type in parenthesis or square brackets.
+
+### Prompt Entries
+
+Prompt entries must start with a number and be followed by a space or other delimiter. Examples:
+
+```
+1. This is a valid entry for a prompt, d30 blah blah modifications.
+1a. This is also valid.
+1c. a..b..c labels are just considered next entries in the total entry count.
+4 So Is this
+8: The numeric labels are actually ignored, which may or may not be desireable.
+```
+
+see `dntables.parsers.text/parse-entry` for the exact regular expression if you really want to know ALL current entry marker possibilities.
+
+## Intermediate EDN/JSON Spec
+
+## Attachable Metadata
+
+Within the source text the following attributes can be added. Place them on a line by themselves.
+They may not span multiple lines.
+
+- ::license [text]
+- ::licenseurl [text]
+- ::author [text]
+- ::source [text]
+- ::doctitle [text]
+- ::fontsize [+1, -1, 1] - Sets the font size for the next table encountered to either be relative or absolute sized. Currently only works with direct PDF output.
+
 
 ## Inspiration
 

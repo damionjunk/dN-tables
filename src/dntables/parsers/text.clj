@@ -2,36 +2,24 @@
   (:require [clojure.java.io :as io]
             [clojure.string :as s]))
 
-(defn source? [text]
-  (when text (some? (re-find #"^::source" (s/trim text)))))
+(def metakeys [:doctitle :author :license :fontsize :source :licenseurl])
 
-(defn parse-source [text]
-  (second (re-find #"^::source\s+(.*)" text)))
+(defn meta? [skw text]
+  (when text (some? (re-find (re-pattern (str "^:" skw)) (s/trim text)))))
 
-(defn author? [text]
-  (when text (some? (re-find #"^::author" (s/trim text)))))
-
-(defn parse-author [text]
-  (second (re-find #"^::author\s+(.*)" text)))
-
-(defn license? [text]
-  (when text (some? (re-find #"^::license" (s/trim text)))))
-
-(defn parse-license [text]
-  (second (re-find #"^::license\s+(.*)" text)))
-
-(defn fontsize? [text]
-  (when text (some? (re-find #"^::fontsize\s+[-+]?\d+\s?$" (s/trim text)))))
-
-(defn parse-fontsize [text]
-  (second (re-find #"^::fontsize\s+([-+]?\d+)" text)))
+(defn parse-meta [skw text]
+  (second (re-find (re-pattern (str "^:" skw "\\s+(.*)")) text)))
 
 (defn title? [text]
   (when text (some? (re-find #"^[\[\()]|^[A-Za-z!-.:$#@]" (s/trim text)))))
 
 (defn parse-title [text]
-  (or (second (re-find #"^[\[\(]\s?\d?\s?d\s?\d+\s?[\]\)]\s?(.*)" text))
-      (second (re-find #"^(.*)[\[\(]\s?\d?\s?d\s?\d+\s?[\]\)]\s?$" text))))
+  (or (second (re-find #"^[\[\(]\s?\d?\s?[Dd]\s?\d+\s?[\]\)]\s?(.*)" text))
+      (second (re-find #"^(.*)[\[\(]\s?\d?\s?[Dd]\s?\d+\s?[\]\)]\s?$" text))))
+
+(defn parse-source-die [text]
+  (or (second (re-find #"^[\[\(]\s?(\d?\s?[Dd]\s?\d+)\s?[\]\)]\s?.*" text))
+      (second (re-find #"^.*[\[\(]\s?(\d?\s?[Dd]\s?\d+)\s?[\]\)]\s?$" text))) )
 
 (defn entry? [text]
   (when text (some? (re-find #"^\d" (s/trim text)))))
@@ -40,6 +28,51 @@
   (second (re-find #"^\d+\s?[A-Za-z]{0,1}[\s-:.=\>]+(.*)" text)))
 
 (defn ->empty->nil [x] (if (nil? x) nil (if (empty? (s/trim x)) nil (s/trim x))))
+
+(defn one-chop [t] (if (re-find #"^1[\sDd]+" t) (subs t 1) t))
+(defn die-normalize [t] (when t
+                          (-> t
+                              s/lower-case
+                              one-chop)))
+
+(def dice-alias-offsets
+  {"d66" 1})
+
+(defn add-metadata
+  "Checks `line` for any meta-data present `kws`. If found, adds it under the same keyword to the 
+   destination map `dest-map`."
+  [kws dest-map line]
+  (reduce
+   (fn [m check-kw]     
+     (if (meta? check-kw line) (assoc m check-kw (->empty->nil (parse-meta check-kw line)))
+         m))
+   dest-map
+   kws))
+
+(defn- die-start [dnd]
+  (when dnd 
+    (let [[_ ds] (re-find #"^(\d+)d" dnd)]
+      (Integer/parseInt ds))))
+  
+(defn find-offset [title-die]
+  (when title-die
+    (let [dn (die-normalize title-die)
+          offs (get dice-alias-offsets dn)]
+      (or offs (when (re-find #"^d" dn) 0) (dec (die-start dn))))))
+
+(defn make-parsed-item
+  "Takes a map and returns another map that represents the final rollup for the current
+   position in the parse of the original text."
+  [m]
+  (->
+    ;; copy all the metadata into the new map
+   (reduce (fn [mp mkw] (assoc mp mkw (mkw m))) {} metakeys)
+   ;; then the normal stuff
+   (assoc :title (:title m))
+   (assoc :title-die (:title-die m))
+   (assoc :items (:items m))
+   (assoc :offset (find-offset (:title-die m)))
+   (assoc :count (count (:items m)))))
 
 (defn simple-reader
   "Has the following assumptions about a text file:
@@ -56,64 +89,49 @@
     (let [everything
           (reduce
            (fn [{collecting? :collecting? items :items title :title parsed :parsed :as m} line]
-             (if-let [line (->empty->nil line)]
-               (cond
-                 (source? line) (assoc m :source (->empty->nil (parse-source line)))
-                 (author? line) (assoc m :author (->empty->nil (parse-author line)))
-                 (license? line) (assoc m :license (->empty->nil (parse-license line)))
-                 (fontsize? line) (assoc m :fontsize (->empty->nil (parse-fontsize line)))
-
-                 ;; Add the item to the items list.
-                 (and collecting? (entry? line)) (if-let [item (->empty->nil (parse-entry line))]
-                                                   (assoc m :items (conj (or items []) item))
-                                                   m)
-
-                 ;; Add the title, prep for collecting.
-                 (and (not collecting?) (title? line)) (if-let [title (->empty->nil (parse-title line))]
-                                                         (assoc m :title title :collecting? true)
-                                                         m)
-
-                 ;; Store previous and prep for next round.
-                 (and collecting? (title? line)) (if-let [title (->empty->nil (parse-title line))]
-                                                   (assoc m
-                                                          :parsed (conj (or parsed [])
-                                                                        {:title (:title m)
-                                                                         :author (:author m)
-                                                                         :license (:license m)
-                                                                         :fontsize (:fontsize m)
-                                                                         :source (:source m)
-                                                                         :count (count (:items m))
-                                                                         :items (:items m)})
-                                                          :items []
-                                                          :fontsize nil
-                                                          :title title)
-                                                   m)
-                 :default m)
+             (if-let [line (->empty->nil line)]            
+               (let [m (add-metadata metakeys m line)]
+                 ;; The order in (cond) matters, to ignore noise and the like.
+                 (cond
+                   ;; Add the item to the items list.
+                   (and collecting? (entry? line)) (if-let [item (->empty->nil (parse-entry line))]
+                                                     (assoc m :items (conj (or items []) item))
+                                                     m)
+                   ;; Add the title, prep for collecting.
+                   (and (not collecting?) (title? line)) (if-let [title (->empty->nil (parse-title line))]
+                                                           (assoc
+                                                            m
+                                                            :title title :collecting? true
+                                                            :title-die (parse-source-die line))
+                                                           m)
+                   ;; Store previous and prep for next round.
+                   (and collecting? (title? line)) (if-let [title (->empty->nil (parse-title line))]
+                                                     (assoc m
+                                                            :parsed (conj (or parsed []) (make-parsed-item m))
+                                                            :items []
+                                                            :fontsize nil ; reset after each round.
+                                                            :title-die (parse-source-die line)
+                                                            :title title)
+                                                     m)
+                   :default m))
                m))
            {}
-           (line-seq rdr))]
-
+           (line-seq rdr))]      
       ;; End of the file, there is probably data in the state map that needs added
       ;; to items.
       ;; 
       (if (pos? (count (:items everything)))
-        (conj (or (:parsed everything) [])
-              {:title (:title everything)
-               :author (:author everything)
-               :source (:source everything)
-               :license (or (:license everything) "")
-               :fontsize (:fontsize everything)
-               :count (count (:items everything))
-               :items (:items everything)})
+        (conj (or (:parsed everything) []) (make-parsed-item everything))
         (:parsed everything)))))
 
 
 (comment
   
-  (parse-title "So, we're exploring The Dread Pit of Zeiram the Lich. What's guarding the front door? (d6)")
-
-  (parse-title "this is a title [ d 12 ]")
-
-  (clojure.pprint/pprint
-   (simple-reader (io/resource "goatmansgoblet/familyweapons.txt")))  
+  (-> 
+   (io/resource "goatmansgoblet/familyweapons.txt")
+   (simple-reader)
+   (last)
+   (select-keys [:doctitle :title-die :author])
+   )
+  
   )

@@ -1,6 +1,8 @@
 ::license CC BY
+::licenseurl https://creativecommons.org/licenses/by/2.0/
 ::source Dungeon World Discord #d6-democracy
-::author Various Authors
+::doctitle #d6-democracy
+::author Dungeon World Discord
 
 Tam03/28/2019
 So, we're exploring The Dread Pit of Zeiram the Lich. What's guarding the front door? (d6)
@@ -146,7 +148,7 @@ Torin_Blood (GMT-6)03/30/2019
 
 ------
 Tam03/31/2019
-Far above the Pit, on the mountain in a temple of a lightning god, the adventurers have finally breached the altar. What lingering curse awaits those who touch it? d66 (d36)
+Far above the Pit, on the mountain in a temple of a lightning god, the adventurers have finally breached the altar. What lingering curse awaits those who touch it? (d66)
 Torin_Blood (GMT-6)03/31/2019
 1.  The first through are cursed with a voice that booms like thunder.
 ExtantLily (GMT+8)03/31/2019

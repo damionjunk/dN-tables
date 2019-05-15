@@ -1,8 +1,8 @@
 \begin{tabularx}{\linewidth}{c|X}
-\BlackCellHeader{D({count})} & \BlackCellHeader{({title|latexescape})} \\
+\BlackCellHeader{({title-die|dienormalize})} & \BlackCellHeader{({title|latexescape})} \\
 (% for item in items %)
-  ({forloop.counter}) & ({item|latexescape}) \\
+  (% sum forloop.counter offset %) & ({item|latexescape}) \\
 (% endfor %)
-\multicolumn{2}{c}{\BlackCellFooter{({source|latexescape}) - Author: ({author|latexescape}), License: ({license|latexescape})}} \\
+%\multicolumn{2}{c}{\BlackCellFooter{({source|latexescape}) - Author: ({author|latexescape}), License: ({license|latexescape})}} \\
 \end{tabularx}
 \newpage

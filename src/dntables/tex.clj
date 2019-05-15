@@ -8,13 +8,12 @@
             [dntables.parsers.text :as p]))
 
 (def escape-chars {\\ "\\\\" \{ "\\{" \} "\\}" \_ "\\_" \^ "\\^" \# "\\#" \& "\\&" \$ "\\$" \% "\\%" \~ "\\~"})
-(defn latex-escape [t] (if t (s/escape t escape-chars) ""))
+(defn latex-escape [t] (when t (s/escape t escape-chars)))
 
 (f/add-filter! :latexescape latex-escape)
+(f/add-filter! :dienormalize p/die-normalize)
 
-(def tags
-  {:tag-open \(
-   :tag-close \)})
+(def tags {:tag-open \( :tag-close \)})
 
 (defn ->tabularx [element]
   (without-escaping
@@ -22,18 +21,17 @@
 
 (defn ->document [elements]
   (without-escaping
-    (sp/render-file "tex/tpl-document.tex"
+   (sp/render-file "tex/tpl-memoir.tex"
+                   (merge 
                     {:tables (map ->tabularx elements)}
-                    tags)))
+                    (select-keys (first elements) p/metakeys))
+                   tags)))
 
 (defn ->tex [source output]
   (spit output (-> (p/simple-reader source) ->document)))
 
 (comment
 
-  
-  
-  *e
   (->tex (io/resource "goatmansgoblet/familyweapons.txt") "go.tex")
   
   (->tex (io/resource "dwdiscord/d6d.txt") "go.tex")
@@ -43,9 +41,7 @@
     (p/simple-reader $)
     (last $)
     (->document [$])
-    (println $)
-    )
-  
+    (println $))
   
   (as-> "goatmansgoblet/familyweapons.txt" $
     (io/resource $)
