@@ -17,15 +17,17 @@
 
 (defn ->tabularx [element]
   (without-escaping
-    (sp/render-file "tex/tpl-table.tex" element tags)))
+    (sp/render-file (io/resource "tex/tpl-table.tex") element tags)))
 
 (defn ->document [elements]
   (without-escaping
-   (sp/render-file "tex/tpl-memoir.tex"
-                   (merge 
-                    {:tables (map ->tabularx elements)}
-                    (select-keys (first elements) p/metakeys))
-                   tags)))
+    (sp/render-file (io/resource "tex/tpl-memoir.tex")
+                    ;; grab keys from the first table item, since the metadata is attached
+                    ;; to each one, and covers the entire set.
+                    (merge 
+                     {:tables (map ->tabularx elements)}
+                     (select-keys (first elements) p/metakeys))
+                    tags)))
 
 (defn ->tex [source output]
   (spit output (-> (p/simple-reader source) ->document)))

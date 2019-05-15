@@ -58,6 +58,7 @@
                                             body-font]
                                      :or {image-sep false
                                           body-font {:size 10 :ttf-name normal-font}}}]
+  (println "Building PDF.")
   (pdf/pdf
    [{:register-system-fonts? true
      :font body-font}

@@ -4,9 +4,39 @@ Some minor code to generate dN random tables in PDF format for various OSR RPG u
 
 LaTeX or direct PDF output is supported. There is a lot more flexibility with your final form if you use LaTeX, since this tool simply dumps your tables into a container document which you must then compile with LaTeX if you want a PDF.
 
-## Usage
+## Command Line Usage
 
-REPL for now, I'll add some command line stuff once I decide what options to have and what format the source data should be in.
+```
+Usage: program-name [options] input-file output-file
+
+Options:
+  -t, --latex  LaTeX output file mode
+  -p, --pdf    PDF output file mode
+  -j, --json   JSON output file mode
+  -e, --edn    END output file mode
+  -h, --help
+```
+
+Examples:
+
+Generate an EDN file from the family weapons source text.
+
+```
+java -jar dntables-0.1.0.jar -e goatmansgoblet/familyweapons.txt fw.edn
+```
+
+Generate a TEX file from the dw d6 democracy source text.
+
+```
+java -jar dntables-0.1.0.jar -t ~/projects/dntables/resources/dwdiscord/d6d.txt d6d.tex
+```
+
+## Compiling LaTeX
+
+```
+xelatex output.tex && open output.pdf
+
+```
 
 ## Example Output
 
@@ -25,13 +55,6 @@ TL;DR, the [DCC](http://goodman-games.com/dungeon-crawl-classics-rpg/) fonts:
 [Book Antiqua](https://www.wfonts.com/font/book-antiqua)
 
 [IM Fell English Pro](https://www.fontsquirrel.com/fonts/im-fell-english-pro)
-
-## LaTeX
-
-```
-xelatex output.tex && open output.pdf
-
-```
 
 ## Input Text Format
 
