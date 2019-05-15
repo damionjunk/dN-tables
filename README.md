@@ -13,7 +13,7 @@ Options:
   -t, --latex  LaTeX output file mode
   -p, --pdf    PDF output file mode
   -j, --json   JSON output file mode
-  -e, --edn    END output file mode
+  -e, --edn    EDN output file mode
   -h, --help
 ```
 
