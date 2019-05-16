@@ -1,5 +1,6 @@
 (ns dntables.pdf
   (:require [clj-pdf.core :as pdf]
+            [dntables.env :refer [env]]
             [clojure.java.io :as io]
             [dntables.util :refer [is-relative?]]
             [dntables.parsers.text :as tp]))
@@ -12,8 +13,8 @@
 (def row-header black)
 (def row-even grey)
 (def row-odd white)
-(def heading-font "fonts/Book Antiqua.ttf")
-(def normal-font "fonts/ANTQUA.ttf")
+(defn heading-font [] (get-in (env) [:pdf :fontheader]))
+(defn normal-font  [] (get-in (env) [:pdf :fontmain]))
 
 (defn make-rows [row-data & {:keys [base-size font-size relative?]}]
   (map-indexed
@@ -31,12 +32,13 @@
    row-data))
 
 (defn build-tables-from-text [file & {:keys [header-font footer-font table-font]
-                                      :or {header-font {:size 13 :color white :ttf-name heading-font}
-                                           table-font  {:size 10 :ttf-name normal-font}
+                                      :or {header-font {:size 13 :color white :ttf-name (heading-font)}
+                                           table-font  {:size 10 :ttf-name (normal-font)}
                                            footer-font {:size 8 :leading 10 :color white :align :center}}}]
+  (println header-font table-font)
   (let [data (tp/simple-reader file)]
     (map
-     (fn [{items :items title :title source :source author :author license :license fontsize :fontsize}]
+     (fn [{items :items title :title source :source author :author license :license fontsize :fontsize offset :offset}]
        (into [:pdf-table
               {:width-percent 100
                :no-split-rows? true
@@ -44,7 +46,7 @@
                :cell-border false
                :header [[[:pdf-cell {:background-color black :valign :middle :align :center :padding-bottom 8 :padding-left 8}
                           [:phrase header-font
-                           (str "d" (count items))]]
+                           (str "d" (+ (count items) offset))]]
                          [:pdf-cell {:background-color black :valign :middle :align :center :padding-bottom 8 :padding-left 10}
                           [:phrase header-font
                            title]]]]
@@ -57,8 +59,8 @@
 (defn write-tables [tables output & {:keys [image-sep
                                             body-font]
                                      :or {image-sep false
-                                          body-font {:size 10 :ttf-name normal-font}}}]
-  (println "Building PDF.")
+                                          body-font {:size 10 :ttf-name (normal-font)}}}]
+  (println "Building PDF using fonts: " (normal-font) (heading-font))
   (pdf/pdf
    [{:register-system-fonts? true
      :font body-font}

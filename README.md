@@ -17,6 +17,22 @@ Options:
   -h, --help
 ```
 
+dntables will look for a `dntables.properties` file in the directory you are running it from. You can override and set font choices here for both the PDF and LaTeX output, although, you can also just edit the LaTeX template to change fonts before compiling to PDF.
+
+You can also specify which LaTeX templates to use for the document _frame_ and the _table_ body if you want to override the default provided templates (that are built into the uberjar).
+
+You can specify the following:
+
+```
+tex.templateroot=/path/to/template/root
+tex.frame=/path/to/frame/template.tex
+tex.table=/path/to/table/template.tex
+tex.fontmain=Book Antiqua
+tex.fotheader=IM FELL English PRO
+pdf.fontmain=fonts/ANTQUA.ttf
+pdf.fontheader="fonts/Duvall.ttf"
+```
+
 Examples:
 
 Generate an EDN file from the family weapons source text.
@@ -31,7 +47,16 @@ Generate a TEX file from the dw d6 democracy source text.
 java -jar dntables-0.1.0.jar -t ~/projects/dntables/resources/dwdiscord/d6d.txt d6d.tex
 ```
 
+Generate a PDF directly
+
+```
+java -jar dntables-0.1.0.jar -p ~/projects/dntables/resources/dwdiscord/d6d.txt d6d.pdf
+```
+
+
 ## Compiling LaTeX
+
+This varies depending on environment. This is how I do it on OSX.
 
 ```
 xelatex output.tex && open output.pdf

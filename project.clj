@@ -9,4 +9,5 @@
                  [cheshire "5.8.1"]
                  [selmer "1.12.12"]
                  [org.clojure/tools.cli "0.4.2"]
+                 [cprop "0.1.13"]
                  [clj-pdf "2.3.4"]])

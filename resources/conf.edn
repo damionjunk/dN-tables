@@ -1,0 +1,7 @@
+{:tex {:frame nil ; Nil will fall back to classpath default resource
+       :table nil ; Nil will fall back to classpath default resource
+       :templateroot nil ; If nil, and frame or table defined, defaults to current directory
+       :fontmain "Book Antiqua"
+       :fontheader "IM FELL English PRO"}
+ :pdf {:fontmain "fonts/ANTQUA.ttf"
+       :fontheader "fonts/Book Antiqua.ttf"}}

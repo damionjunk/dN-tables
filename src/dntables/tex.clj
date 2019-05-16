@@ -5,6 +5,7 @@
             [selmer.util :refer [without-escaping]]
             [selmer.filters :as f]
             [clojure.string :as s]
+            [dntables.env :refer [env]]
             [dntables.parsers.text :as p]))
 
 (def escape-chars {\\ "\\\\" \{ "\\{" \} "\\}" \_ "\\_" \^ "\\^" \# "\\#" \& "\\&" \$ "\\$" \% "\\%" \~ "\\~"})
@@ -17,11 +18,12 @@
 
 (defn ->tabularx [element]
   (without-escaping
-    (sp/render-file (io/resource "tex/tpl-table.tex") element tags)))
+    (sp/render-file (or (when-let [tt (get-in (env) [:tex :table])] (io/file tt)) (io/resource "tex/tpl-table.tex")) element tags)))
 
 (defn ->document [elements]
   (without-escaping
-    (sp/render-file (io/resource "tex/tpl-memoir.tex")
+    (sp/render-file (or (when-let [tt (get-in (env) [:tex :frame])] (io/file tt)) 
+                        (io/resource "tex/tpl-memoir.tex"))
                     ;; grab keys from the first table item, since the metadata is attached
                     ;; to each one, and covers the entire set.
                     (merge 
@@ -30,7 +32,13 @@
                     tags)))
 
 (defn ->tex [source output]
-  (spit output (-> (p/simple-reader source) ->document)))
+  (let [troot (get-in (env) [:tex :templateroot])]
+    (if (and (get-in (env) [:tex :frame]) (get-in (env) [:tex :table]))
+      (let [root (or troot (-> (java.io.File. ".") .getCanonicalPath))]
+        (println "Setting template root to: " root)
+        (selmer.parser/set-resource-path! root))
+      (println "Using classpath (included) LaTeX templates."))
+    (spit output (-> (p/simple-reader source) ->document))))
 
 (comment
 

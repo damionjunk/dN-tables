@@ -15,3 +15,5 @@ pom.xml.asc
 *.out
 *.fdb_latexmk
 *.fls
+fonts/
+tex/
