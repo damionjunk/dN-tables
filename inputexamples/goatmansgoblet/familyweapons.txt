@@ -51,9 +51,10 @@ d6 Damage Weapons [d12]
 
 11. This hand axe has seen little use, both in war or in service to kindling. Your [Relative], layabout that they are, always kept it close enough to dissuade others from violence. They surely won’t miss it. [As hand axe.]
 
-12a. A munitions grade crossbow, purchased off the back of a wagon from a quartermaster not entirely happy with his service to the Duke. Your [Relative] flayed the skin off their wrist and lost a finger once, having reloaded it improperly and suffering at the lash of the drawstring. [As crossbow]
+12. Either
+a. A munitions grade crossbow, purchased off the back of a wagon from a quartermaster not entirely happy with his service to the Duke. Your [Relative] flayed the skin off their wrist and lost a finger once, having reloaded it improperly and suffering at the lash of the drawstring. [As crossbow]
 
-12b. This arquebus from the gunnery works down past County Colm, made of banded iron and hard rosewood stock. A masterclass in efficient design, your [Relative] considers it to be a waste of money and hasn’t said a kind word about you since you bought it. [As crossbow]
+b. This arquebus from the gunnery works down past County Colm, made of banded iron and hard rosewood stock. A masterclass in efficient design, your [Relative] considers it to be a waste of money and hasn’t said a kind word about you since you bought it. [As crossbow]
 
 d8 Damage Weapons [d12]
 ::fontsize -1

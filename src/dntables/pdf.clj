@@ -2,6 +2,7 @@
   (:require [clj-pdf.core :as pdf]
             [dntables.env :refer [env]]
             [clojure.java.io :as io]
+            [clojure.string :as s]
             [dntables.util :refer [is-relative?]]
             [dntables.parsers.text :as tp]))
 
@@ -18,8 +19,10 @@
 
 (defn make-rows [row-data & {:keys [base-size font-size relative?]}]
   (map-indexed
-   (fn [idx text]
-     (let [bg (if (odd? idx) row-odd row-even)]
+   (fn [idx {text :item items :items}]
+     (let [bg (if (odd? idx) row-odd row-even)
+           ti (map-indexed (fn [i e] (str (inc i) ". " (:item e))) items)
+           tt (if ti (str "\n" (s/join "\n" ti)))]
        [[:pdf-cell {:background-color bg :align :center :valign :middle}
          [:paragraph (when (and font-size base-size) {:size (if relative?
                                                               (+ base-size (Integer/parseInt font-size))
@@ -28,14 +31,13 @@
         [:pdf-cell {:background-color bg :align :left :valign :top :padding-bottom 8 :padding-top 0 :padding-left 10}
          [:paragraph (when (and font-size base-size) {:size (if relative?
                                                               (+ base-size (Integer/parseInt font-size))
-                                                              (Integer/parseInt font-size))}) text]]]))
+                                                              (Integer/parseInt font-size))}) (str text tt)]]]))
    row-data))
 
 (defn build-tables-from-text [file & {:keys [header-font footer-font table-font]
                                       :or {header-font {:size 13 :color white :ttf-name (heading-font)}
                                            table-font  {:size 10 :ttf-name (normal-font)}
                                            footer-font {:size 8 :leading 10 :color white :align :center}}}]
-  (println header-font table-font)
   (let [data (tp/simple-reader file)]
     (map
      (fn [{items :items title :title source :source author :author license :license fontsize :fontsize offset :offset}]
@@ -74,11 +76,11 @@
 (comment
 
   (write-tables
-   (build-tables-from-text (io/resource "goatmansgoblet/familyweapons.txt"))
+   (build-tables-from-text (io/file "inputexamples/goatmansgoblet/familyweapons.txt"))
    "family-weapons-tables.pdf")
 
   (write-tables
-   (build-tables-from-text (io/resource "dwdiscord/d6d.txt"))
+   (build-tables-from-text (io/file "inputexamples/dwdiscord/d6d.txt"))
    "d6d.pdf")
   
   )
