@@ -112,6 +112,18 @@ Prompt entries must start with a number and be followed by a space or other deli
 
 see `dntables.parsers.text/parse-entry` for the exact regular expression if you really want to know ALL current entry marker possibilities.
 
+### Prompt Sub Entries
+
+```
+## This is an entry:
+1. I am a regular entry
+a. Alternate 1
+b. Alternate 2
+c. Alternate 3
+```
+
+The above example would turn into one entry in the roll table with three subentries.
+
 ## Intermediate EDN/JSON Spec
 
 ## Attachable Metadata

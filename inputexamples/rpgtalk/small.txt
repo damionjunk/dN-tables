@@ -1,0 +1,59 @@
+::license CC BY
+::licenseurl https://creativecommons.org/licenses/by/2.0/
+::source RPG Talk #contest_submissions
+::doctitle #contest_submissions
+::author RPG Talk
+
+
+The ancient city of Workwyrm spreads below you. As you approach... [d6]
+Occam vanRijn05/08/2019
+1. ...you begin to feel watched. Five pairs of yellow, mirrored retinas flash from the shadows before disappearing the minute you turn to look. Some beasts are tracking you...
+a) ...and they are still hungry after eating the last adventurers.
+b) ...and they’re waiting until the monster ahead kills you to steal bits of your corpse.
+just Sterbl05/08/2019
+2. A chain carved from interlocking stone links grinds across the main road
+a) it circles the city endlessly, the only working part of a long decayed trolley system.
+b) at the end is a massive doglike gargoyle formed from living rock.
+Archleone05/08/2019
+3. As the city's epicentre comes into view, you see a massive, half-domed ampitheatre. On its steppes rest the coils of the titular Workwyrm. She seems engrossed with her latest Masterpiece.
+   a. She is busily arranging a large statue composed of the weapons and armor of adventurers who wandered too close. It looks like it might come alive at any moment...
+   b. She's conducting an Orchestra of chained and manacled bards. Their haunting melody is enchanting, and you feel an urge to get closer, to better appreciate the acoustics...
+DuneAught05/08/2019
+4. A fanfare of horns rings through the air.
+  a.  It's an alarm. The city's being invaded by savage beasts.
+  b.  It's the opening ceremony for the city's feast and festival week.
+Turtle Hat (he/him)Last Monday at 10:44 PM
+5. A marble-paved street in front of you is entirely devoid of life, doors or decoration
+  a. This is an enchanted sentient street that must be befriended for the doors to show themselves
+  b. A localized magical field kills all living things that remain in the street for more than a minute. Bandits are using it to rob unaware explorers
+just SterblLast Tuesday at 8:47 AM
+6. You walk towards the city for hours but don't seem to make any progress
+a. When you glance behind you, the edge of the city is right there.  You've only traveled in about 100 yards.
+b. The buildings are much larger than you guessed at first, like they were built for things 5 times larger than human.
+TamLast Tuesday at 9:56 AM
+You stand before the gates of Workwyrm; what do you encounter as you make your way through it? [d6]
+𝔛𝔞𝔯𝔞𝔰 (he/they)Last Tuesday at 10:14 AM
+1. You descend down stairs of enormous proportions, arduously climbing down steps many times your height. The stairs open up into...
+a. A giant-sized trap with spikes the size of church spires.
+b. A giant-sized taproom with preserved kegs of wine and beer large enough to supply a whole town
+WithalwhereLast Tuesday at 10:27 AM
+2. A kobold town flourishes here, burrowed into gateway all the way up to its keystone more than a hundred feet above the ground. You hear a commotion from...
+a. a goblin festival. Food, drink, and colorful trinkets flow freely.
+b. a goblin trial. You are surrounded by clamorous voices demanding you act as impartial arbiters.
+DuneAughtLast Tuesday at 10:33 AM
+3. Did you say the secret password?
+  a.  What you said as you passed the gate was good enough. Welcome to Workwyrm. The city denizens are bustling with busywork.
+  b.  What you said as you neared the gate was invalid for entry. The magic gate has teleported you elsewhere far away, according whatever it was that you were saying at the time.
+Occam vanRijnLast Tuesday at 11:14 AM
+4. The gate here is blown out at the base, with huge chunks dug out of the walls as though a massive bulk forced its way though leaving gouges in the stone ten feet deep and thirty feet wide. The ground here is disturbed for hundreds of yards within and without, with strange glassy spines lying in and around the deepest grooves--even high on the walls of the gates.
+
+a. These are the feeler-hairs of the great Wyrm, coated in a glossy poison that drives mortal creatures into a frenzied panic at the slightest touch; the only hope for the sufferers is to tie them up while the toxin dissipates, and to pray no predator chances upon them.
+b. The spines are rooted together into a subterranean whole that must span the entire town. It passes through stone, wood, and if you sleep on the ground, flesh and bone. They subsist on the leavings of the Wyrm, but would be happy to nourish themselves on you if you tarry too long.
+ArchleoneLast Tuesday at 4:13 PM
+5. When you've crossed the threshhold, you find yourself in the Workwyrm's well manicured gardens, full of splendorously trimmed topiaries and decadently hued floral arrangements. When you step onto the grass, however...
+   a. The plants begin to attack you, showering you with sticky-sweet fruits, needle-like thorns, and razor-sharp petals.
+   b. Every path you go down leads you deeper and deeper into a maze of hedges that seem to grow denser and taller with each twist and turn, until you believe you are well and truly lost.
+Turtle Hat (he/him)Today at 11:17 AM
+6. A statue, honoring the mythic founders of Workwyrm stands proud before you. It glimmers in the dim light, almost seeming to move
+  a. You notice a small shrine before the statue. The spirits said to inhabit the statue may be fickle today. What do you do?
+  b. The statue is teeming with antler-adorned cultists in vibrant teal robes. They are dismantling the statue! What do you do?

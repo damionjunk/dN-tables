@@ -1,7 +1,14 @@
 \begin{tabularx}{\linewidth}{c|X}
 \BlackCellHeader{({title-die|dienormalize})} & \BlackCellHeader{({title|latexescape})} \\
 (% for item in items %)
-  (% sum forloop.counter offset %) & ({item|latexescape}) \\
+  (% with outerroweven=forloop.counter|even %)
+  \rowcolor{(% if outerroweven %)gray!25(% else %)white(% endif %)}
+  (% sum forloop.counter offset %) & ({item.item|latexescape}) \\
+  (% for e in item.items %)
+  \rowcolor{(% if outerroweven %)gray!25(% else %)white(% endif %)}
+  & ({forloop.counter}). ({e.item|latexescape}) \\
+  (% endfor %)
+  (% endwith %)
 (% endfor %)
 %\multicolumn{2}{c}{\BlackCellFooter{({source|latexescape}) - Author: ({author|latexescape}), License: ({license|latexescape})}} \\
 \end{tabularx}

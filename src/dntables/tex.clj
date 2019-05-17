@@ -13,6 +13,7 @@
 
 (f/add-filter! :latexescape latex-escape)
 (f/add-filter! :dienormalize p/die-normalize)
+(f/add-filter! :even even?)
 
 (def tags {:tag-open \( :tag-close \)})
 
@@ -42,9 +43,11 @@
 
 (comment
 
-  (->tex (io/resource "goatmansgoblet/familyweapons.txt") "go.tex")
+  (->tex (io/file "inputexamples/rpgtalk/small.txt") "go.tex")
   
-  (->tex (io/resource "dwdiscord/d6d.txt") "go.tex")
+  (->tex (io/file "inputexamples/goatmansgoblet/familyweapons.txt") "go.tex")
+  
+  (->tex (io/file "inputexamples/dwdiscord/d6d.txt") "go.tex")
   
   (as-> "goatmansgoblet/familyweapons.txt" $
     (io/resource $)

@@ -1,17 +1,19 @@
 (ns dntables.parsers.text
   (:require [clojure.java.io :as io]
-            [clojure.string :as s]))
+            [clojure.string :as s]
+            [dntables.util :refer [replace-last]]))
 
 (def metakeys [:doctitle :author :license :fontsize :source :licenseurl])
+(def dice-alias-offsets {"d66" 1})
 
 (defn meta? [skw text]
-  (when text (some? (re-find (re-pattern (str "^:" skw)) (s/trim text)))))
+  (when text (some? (re-find (re-pattern (str "^:" skw "\\s+")) (s/trim text)))))
 
 (defn parse-meta [skw text]
   (second (re-find (re-pattern (str "^:" skw "\\s+(.*)")) text)))
 
 (defn title? [text]
-  (when text (some? (re-find #"^[\[\()]|^[A-Za-z!-.:$#@]" (s/trim text)))))
+  (when text (some? (re-find #"^[\[\()]|^[A-Za-z!\-\.:$#@]" (s/trim text)))))
 
 (defn parse-title [text]
   (or (second (re-find #"^[\[\(]\s?\d?\s?[Dd]\s?\d+\s?[\]\)]\s?(.*)" text))
@@ -25,7 +27,13 @@
   (when text (some? (re-find #"^\d" (s/trim text)))))
 
 (defn parse-entry [text]
-  (second (re-find #"^\d+\s?[A-Za-z]{0,1}[\s-:.=\>]+(.*)" text)))
+  (second (re-find #"^\d+\s?[A-Za-z]{0,1}[\s\-:\.=\)\>]+(.*)" text)))
+
+(defn subentry? [text]
+  (when text (some? (re-find #"^[A-Za-z]{1,2}[\):\-\.=\>]+" (s/trim text)))))
+
+(defn parse-subentry [text]
+  (second (re-find #"^[A-Za-z]{1,2}[\s-:\.=\)\>]+(.*)" text)))
 
 (defn ->empty->nil [x] (if (nil? x) nil (if (empty? (s/trim x)) nil (s/trim x))))
 
@@ -34,9 +42,6 @@
                           (-> t
                               s/lower-case
                               one-chop)))
-
-(def dice-alias-offsets
-  {"d66" 1})
 
 (defn add-metadata
   "Checks `line` for any meta-data present `kws`. If found, adds it under the same keyword to the 
@@ -89,14 +94,30 @@
     (let [everything
           (reduce
            (fn [{collecting? :collecting? items :items title :title parsed :parsed :as m} line]
-             (if-let [line (->empty->nil line)]            
+             (if-let [line (->empty->nil line)]
                (let [m (add-metadata metakeys m line)]
                  ;; The order in (cond) matters, to ignore noise and the like.
                  (cond
                    ;; Add the item to the items list.
-                   (and collecting? (entry? line)) (if-let [item (->empty->nil (parse-entry line))]
-                                                     (assoc m :items (conj (or items []) item))
-                                                     m)
+                   (and collecting? (entry? line)) 
+                   (if-let [item (->empty->nil (parse-entry line))]
+                     (assoc m :items 
+                            (conj (or items [])
+                                  {:item item}))
+                     m)
+                   
+                   ;; a. Subentry collection and attachment to previous entry.
+                   (and collecting? (subentry? line))
+                   (if-let [se (->empty->nil (parse-subentry line))]
+                     (if-let [pe (last items)]
+                       (let [pei (or (:items pe) [])]
+                         (assoc m :items
+                                (replace-last
+                                 items
+                                 (assoc pe :items (conj pei {:item se})))))
+                       m)
+                     m) 
+                   
                    ;; Add the title, prep for collecting.
                    (and (not collecting?) (title? line)) (if-let [title (->empty->nil (parse-title line))]
                                                            (assoc
@@ -127,11 +148,13 @@
 
 (comment
   
+  (subentry? "d8 Damage Weapons [d12]")
+  
   (-> 
-   (io/resource "goatmansgoblet/familyweapons.txt")
+   (io/file "inputexamples/rpgtalk/small.txt")
    (simple-reader)
-   (last)
-   (select-keys [:doctitle :title-die :author])
+   (first)
+   (select-keys [:items])
    )
   
   )
