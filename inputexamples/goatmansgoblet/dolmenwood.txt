@@ -1,0 +1,158 @@
+::source http://www.goatmansgoblet.com/2019/04/ose-weapons-for-family-ties-by-damage.html
+::author Brian Richmond
+::doctitle OSE Tables for Dolmenwood
+
+
+What's unique about my cat? [d20]
+1. It has a stubby naked tail, sort of like having a big nipple coming off its rump.
+2. It has several additional toes on each foot and enjoys placing those on your face.
+3. It gives often painful "love" bites, as if tenderizing your flesh for consumption.
+4. It carries baby animals, like rats or possum, upon its back until it decides to kill them.
+5. It always seems to be eating bees and hornets...
+6. It enjoys licking your overly sensitive bits of skin with an extra sand-papery tongue.
+7. It seems to urinate on things you enjoy when it is upset with you.
+8. It wakes you up every morning by biting at your nose and screaming.
+9. It seems to sway its head and spin when music is played, as if dancing.
+10. It never takes its eyes off of a spiritual entity, as if a staring contest might hold it at bay.
+11. When fed raw fish it only eats the heads.
+12. It enjoys bringing you "treasures," which consist mostly of mutilated vermin.
+13. It hates your traveling companions and toots in their general direction.
+14. It hates the smell of alcohol and is always tipping over cups and bottles of the stuff.
+15. It has notched and mangled ears.
+16. Whenever it coughs up a hairball, the hairball seems to be a twitching mass until you blink.
+17. It gets into mewling conversations with other cats and looks at you judgingly if you notice.
+18. It enjoys screaming at the most unpleasant of times.
+19. It likes to rub its head into pungent items, drooling all the while.
+20. It constantly "bleps" out its tongue, like it is trying to play a woodpipe.
+
+My cat is... [d12]
+1. A lazy lump of a potato, save for when I need a moment to relax and then it has energy...
+2. An elegant beast which demands more attention than it really deserves.
+3. Not really my cat, it does what it pleases and I just get to witness its greatness by proximity.
+4. An adequate bane to tiny crawling things which wish to spoil my house and kit.
+5. Good company and soothing to pet after a hard day's work.
+6. One of those cats that thinks its a dog. This causes no small amount of chaos.
+7. A wild animal and I always seem to forget that. It loves reminding me.
+8. More loving than any romantic companion and will never leave me.
+9. An ugly little scrotum goblin who I would die for.
+10. A snuggling companion who provides me comfort.
+11. A maniac creature who will be the death of me.
+12. A precious little baby, no matter how fat and old they are.
+
+
+
+d4 Damage Weapons [d12]
+1. Your [Relative]’s walking stick, from a time when walking holidays were common but equally arduous. [As club]
+
+2. A fine cast-iron skillet, properly seasoned and damn near impossible to dent. Your [Relative] has used it to bash in a few skulls, though hopefully you won’t need it for that. [As club]
+
+3. A dagger of curved longhorn ivory, allegedly won in some melee by your [Relative]. [As dagger]
+
+4. A boar-sticking javelin that served your [Relative] well, never missed with it. Or so they said. [As javelin]
+
+5. This gnarled oaken stave was given to your [Relative] by a hooded Watcher of the Wood, likely for some nefarious purpose. [As staff]
+
+6. Your [Relative] claims this knife was almost plunged into their belly by pagan cultists, though that’s something of their catch-all excuse. [as dagger]
+
+7. This long shaft of whalebone was sharpened and used for fishing when times were lean on the ship your [Relative] worked on some time ago. [As javelin]
+
+8. This knotted, knobby, whorled piece of wood has served your [Relative] well; both in bashing knees and bashing heads. [As club.]
+
+9. Your [Relative] stole this javelin from an athletic competition down past County Colm, back when they were competing in high-stakes hurling with High-Hankle. [As javelin.]
+
+10. This dagger is all that’s left from your [Relative], as their compatriots claim they died stabbing and gutting some great beast with the blade; hateful and defiant to the end. [As dagger.]
+
+11. Your [Relative] claims this crooked stave was blessed by a holy-man of “the Powers that Be” but it seems far more likely it was pilfered from some votive shrine. [As staff.]
+
+12. Your [Relative] made this for you when you were very young, allegedly from the wood of a thunderstruck tree. You carved little emblems into it, and now you carry it with you to more violent means. [As staff.]
+
+
+d6 Damage Weapons [d12]
+1. Your [Relative]’s lucky hand axe from a few years spent working among the Woodcutter’s on the edge of the river. It an glide through wood like a knife through soft butter, if properly kept. [as hand axe]
+
+2. This lance was discarded by a Knight of Brackenwold after a tournament bout they lost in disgrace. Your [Relative] picked it out of the mud as a souvenir. [As lance]
+
+3. A fine yew longbow, well treated and kept-up from years of use, passed down to you now by your [Relative].[As long bow]
+
+4. This shortbow was made from the precarious roots of an anklebrankle, and your [Relative] always loved to tell stories of tripping people before nocking an arrow to coerce them further. You took the bow primarily to shut them up. [As short bow]
+
+5. Your [Relative] claims to have dug this old Goman short sword out of the muck of a river, hoping to sell it for a bit of coin. Nobody would buy it, everyone claims its haunted. You’ve never noticed anything ghastly about it. [As short sword.]
+
+6. The Old Duke commissioned a number of swords for use against the rabblesome Goatlords who were, at the time, bucking their allegiance with the Brackenwolders. Your [Relative] came across it as a matter of service, though they never spoke further on that. [As short sword.]
+
+7. Your [Relative] was for a time, an ally of the Lichwards of St. Faxis. This mace was a symbol of authority and service, a black polished truncheon with vague cruciform shape. [As mace.]
+
+8. Dreams of a blue stone mace and endless laughter have long tormented your [Relative], and a week ago they were driven to madness. You heard laughter too, and it frightened you. You commissioned this mace to be plunged in molten salt to blue it; and in your hands it silences those whispering cackles in your head. [As mace.]
+
+9. This spear was picked from a battlefield between the warring Goatlords by your [Relative], stained with gore and more than a few bodies impaled upon its length. Its point is of vicious barbed make. [As spear.]
+
+10. Your [Relative], during a more dire time, worked as a resurrectionist. This great sledge has a claw on the back of its head, and it is allegedly a very useful tool for bashing apart wood and stone. [As warhammer.]
+
+11. This hand axe has seen little use, both in war or in service to kindling. Your [Relative], layabout that they are, always kept it close enough to dissuade others from violence. They surely won’t miss it. [As hand axe.]
+
+12. Either
+a. A munitions grade crossbow, purchased off the back of a wagon from a quartermaster not entirely happy with his service to the Duke. Your [Relative] flayed the skin off their wrist and lost a finger once, having reloaded it improperly and suffering at the lash of the drawstring. [As crossbow]
+
+b. This arquebus from the gunnery works down past County Colm, made of banded iron and hard rosewood stock. A masterclass in efficient design, your [Relative] considers it to be a waste of money and hasn’t said a kind word about you since you bought it. [As crossbow]
+
+d8 Damage Weapons [d12]
+::fontsize -1
+1. A battle axe from the armory of House Nodwick, offered as a dowry to your [Relative]. The relationship was spurned, and the weapon never returned. It is of superior, noble, make. [As battle axe.]
+
+2. This flask of pungent oil was purchased by your [Relative] and left to obscurity in the cellar for several years. A painted label of red fruit and flames upon it speak to a perfidious purpose if properly used. [As oil flask, burning.]
+
+3. This sword once belonged to an infamous hedge knight, their mark of service is marred into the pommel though your [Relative] took great efforts in clawing it into obscurity with a chisel. They’d rather you sell it for scrap, though it rouses the question as to why they hadn’t done that themselves? [As sword.]
+
+4. A glass jar with an off-yellow liquid inside, floating within it are some sort of cultured mould. It is labelled “the Shantywood Special” and your [Relative] laughs, then feels great shame, when they’re asked what that’s supposed to mean. It is corrosive, like acid. [As holy water, but certainly not. If moved into a different flask the aeration makes it just moot, vinergary goop.]
+
+5. Bottle of cultured truffle oil from the Pook’s Way Taphouse, it smells divine and greatly increases the flavor of anything it is added to. Highly flammable and sticky; an expensive flask of burning oil, but one which will smell lovely. A Saint’s Day gift from [Relative]. [As oil flask, burning.]
+
+6. A clay cruciform canteen, blessed by the Bishop Sanguine upon a feasting day mass and passed down to you from your [Relative] who hopes to see you keep it safe and pass it down to your own children someday.
+
+7. Your [Relative] was run through with this blade, delivered in agonizing cruelty by a brigand from the wood. They fled from your anger, and all that is left from that terrible night is memories of loss, a hastily dug grave, and this blade which must be returned in kind. [As sword.]
+
+8. In a better life you could’ve been a proper blacksmith, an apprentice to your [Relative] who saw talent in you. Enough to enter a competition in blademaking. Enough to lose to Jorye, that lucky Lankshorn bastard. Enough for your [Relative] to fall heavily to the bottle in disgrace. You made this sword together, it should mean something more than humiliation. [As sword.]
+
+9. Your [Relative] was an executioner, a shameful position that they were forced into after debts and losses to a noble house. They’ve recently managed to buy themselves out of this title, but that derelict axe still hungers. [As battle axe.]
+
+10. As a child you and [Relative] would play fight with “swords” made from the brittle branches that fell in autumn; you always got the better of them, though they might’ve let you win. This blade you own was a gift from them, they hope you will cherish it, they fear it will lead to your death… [As sword]
+
+11. This battle axe came from a time when your [Relative] thought they could be a proper kern and serve for sake of liberating their peers from foreign encroachment by the Mad Queen’s lineage. The way distant nobles were so quick to lick her boot and how it led to their masters doing so in spirit, disenfranchised your [Relative]. Use this axe for freedom, for chaos against bloody Havenland and its peoples. [As battle axe.]
+
+12. This wicked sword was found by your [Relative] by one of the standing stones in the wood. It thrummed, almost calling to them, it whispered your name in a guttural tone. The blade is chalky to the touch, tarnished with a strange oil. It is swift when swung, but no mark of enchantment appears upon it. [As sword.]
+
+d10 Damage Weapons [d6]
+1. A wavy flamberge style sword, brought back by your [Relative] whilst they fought in foreign lands. They came back touched and distant, and you taking the sword away brought them a small, sad comfort. [As two-handed sword.]
+
+2. A cruciform-hilted claymore, allegedly an ancestral artifact of early cooperation between your family and the Church of the One True God. Heavy is its weight, both in history and in the lopping of heads. [As two-handed sword.]
+
+3. This sword has brought kinstrife between your family members for years, it was last seen in the hands of your [Relative] as they came for you, accusing you of crimes both real and imagined. It is in your hands now, and you feel no magical compulsion to kinstrife or kinslay; but you feel a fear that it might come upon you; or anyone else who might take up this blade. [As two-handed sword.]
+
+4. A halbred brought from the Havenlands by one of the Queen’s beef fed royal guards. He was brought low by mercenaries gone gallowglass, and the fine weapon found itself in your possession by way of your [relative] to whom they owed back pay. [As polearm]
+
+5. Your [Relative] killed one of Lord Ramius’s longhorn retainers in a duel of honor; how they found themselves in that is a matter of contention and debate. Equally so is how they won. This bec de corbin was looted from the corpse of the goatman knight, and its metal’s twilight violet gleam speak to its value. Surely someone will come for it, and as your [relative] is bedraggled with paranoia, it is now your burden. [As polearm.]
+
+6. This glaive is poorly shaped, having been used by your [relative] as a gondola whilst they plied smuggler work on the Lac. Some parts of its rust will never come clean, and its certainly seen better days; but what matters is that it is yours now and you won’t treat it so poorly. [As pole-arm.]
+
+Relative [d20]
+::fontsize +2
+1. Father
+2. Mother
+3. Uncle
+4. Aunt
+5. Grandfather
+6. Grandmother
+7. Great-Grandmother
+8. Great-Grandfather
+9. Cousin
+10. Romantic Partner
+11. Bastard Cousin
+12. Elder Brother
+13. Elder Sister
+14. Great Aunt
+15. Great Uncle
+16. Bastard Sibling
+17. Nana
+18. Great-Grandparent's Nurse
+19. Spouse
+20. Ex-Spouse

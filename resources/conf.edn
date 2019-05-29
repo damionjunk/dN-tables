@@ -4,4 +4,5 @@
        :fontmain "Book Antiqua"
        :fontheader "IM FELL English PRO"}
  :pdf {:fontmain "fonts/ANTQUA.ttf"
-       :fontheader "fonts/Book Antiqua.ttf"}}
+       :fontheader "fonts/Book Antiqua.ttf"}
+ :5e {:srd {:spells "/Users/junkda/projects/5thSRD/docs/spellcasting/spells"}}}

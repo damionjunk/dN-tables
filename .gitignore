@@ -16,4 +16,3 @@ pom.xml.asc
 *.fdb_latexmk
 *.fls
 fonts/
-tex/

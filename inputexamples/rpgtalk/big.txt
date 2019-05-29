@@ -1,0 +1,553 @@
+::license CC BY
+::licenseurl https://creativecommons.org/licenses/by/2.0/
+::source RPG Talk #contest_submissions
+::doctitle #contest_submissions
+::author RPG Talk
+
+jsal (he/him)03/19/2019
+What Lurks in the Grass? [2d6]
+Turtle Hat (he/him)03/19/2019
+2. A tiny hydra where all its necks look like blades of grass
+Adam Montana (he/they)03/19/2019
+3. A person, awaking from a rough night.
+Thomas03/19/2019
+4. A misplaced sentimental item, like a necklace or diary.  But who left it here?
+johnsonny03/19/2019
+5. A small, furry creature who looks inquisitively at you before darting off. You catch a glint of something metallic on its tail.
+AaronF (he/him)03/20/2019
+6. Fairies, shy or malicious.
+avantman42 (he/him)03/20/2019
+7. A note, written in a foreign language
+Withalwhere03/20/2019
+8. A friendly merchant with their wares laid out on a carpet. Their features are always changing.
+Adam Montana (he/they)03/20/2019
+9. a still rolling disc.
+AaronF (he/him)03/20/2019
+10. A misplaced sentient item, like a sword or ring. But why did it bring you here?
+Turtle Hat (he/him)03/20/2019
+11. The dead body of an acquaintance you saw the last time you were in town
+Tam03/20/2019
+12. A snake with ruby eyes in a wicker cage that asks you sweetly to set it free.
+Turtle Hat (he/him)03/20/2019
+How did this magic item get here? [1d6]
+Adam Montana (he/they)03/20/2019
+1. It positioned itself here to be found.
+O_Pimentinha (GMT -3)03/20/2019
+2. It is wrapped around a, now dead, homing pigeon's thigh.
+just Sterbl03/20/2019
+3. It's the prized possession of some sentient creature, hidden here so their big brother doesn't steal it from them.
+avantman42 (he/him)03/20/2019
+4. A teleport spell went wrong
+Tam03/20/2019
+5. Dropped, and the very frustrated former owner is over there, looking for it.
+johnsonny03/20/2019
+6. It had grown fearful of the dark and had slowly crawled its way into the light
+Turtle Hat (he/him)03/20/2019
+Who was the previous owner of the magical item? [1d12]
+Withalwhere03/20/2019
+1. A giant sobbing over its loss
+Tam03/20/2019
+2. A chimera, and two of the heads are arguing about whose fault it is.
+AaronF (he/him)03/20/2019
+3. Your grandmother! Coincidence or fate?
+SuperMadol (He/Him)03/20/2019
+4. An absent-minded god, will they figure out you have it?
+Thomas03/20/2019
+5.  You, but it wasn't magical the last time you saw it...
+Tam03/20/2019
+6. A petty ghost, and they think it was your fault they lost it.
+Adam Montana (he/they)03/20/2019
+7. A forgetful artificer lost their spare.
+Turtle Hat (he/him)03/20/2019
+8. A small village kept it as a religious artifact in a temple before it was stolen
+Void Worship [he/him]03/20/2019
+9. An old wandering wizard who seems out of step with the world and with... time? He knows an awful lot about you though...
+AaronF (he/him)03/20/2019
+10. A long-dead king, or so the legend goes...
+Aktane (he/him)03/21/2019
+11. An orphan, the last one of kind
+Adam Montana (he/they)03/21/2019
+12. It owns itself.
+Turtle Hat (he/him)03/21/2019
+You draw a card from an arcane card deck overflowing with magical energy. What does it do? [1d54]
+Void Worship [he/him]03/21/2019
+1. In the blink of an eye, you shrink to the size of a mouse and your surroundings tower above you. Most sounds above a whisper sound booming. In reality, nothing has changed size but nothing can convince you otherwise. This lasts for 4d12 hours.
+Adam Montana (he/they)03/21/2019
+2. A doppelganger of you is created, who then flees to cause havok
+Withalwhere03/21/2019
+3. The figure on the card shouts! They claim it's critically important that you free them from their imprisonment.
+O_Pimentinha (GMT -3)03/21/2019
+4. The card has a picture of a landscape, and you are teleported instantly to the place in the picture. Where in the world did you end up?
+Aktane (he/him)03/21/2019
+5. At first, nothing. You start to see change in your anatomy shortly after, you start to develop cursed demonic feature
+Adam Montana (he/they)03/21/2019
+6. You find a very fine hat upon your head, matching the one on the card
+O_Pimentinha (GMT -3)03/21/2019
+7. You are suddenly aware that you are fluent in a forgotten language of the world you're in. And the card is a piece of a map to a forgotten city where that language was spoken.
+Turtle Hat (he/him)03/21/2019
+8. You are overcome with an intense drive to craft a powerful magical item that you normally wouldn't have the knowledge or capability of creating. When you are done, you will be left exhausted but with a powerful artifact.
+SuperMadol (He/Him)03/21/2019
+9. You are now Green. All over.
+Thomas03/21/2019
+10. The card shows you a vision of a possible future... Will it come to pass, or will your actions change what is to be?
+Turtle Hat (he/him)03/21/2019
+11. For the next next day, you experience the raw unfiltered emotions of everyone within sight of you without any filtration or context.
+AaronF (he/him)03/21/2019
+12. It starts spraying dense smoke, colored your favorite color, enveloping everything nearby.
+Aktane (he/him)03/21/2019
+13. For the next day, everything you say must be subjective truth
+Adam Montana (he/they)03/21/2019
+14. The next thing you say will be objectively true.
+WhyContainIt?03/21/2019
+15. You begin to experience extreme synesthesia.
+Void Worship [he/him]03/21/2019
+16. You begin seeing messages written specifically to you everywhere but no one else can see them. Is it a plea for help, a warning, a threat, or have you finally gone mad? Effect persists until you can uncover the mystery. At the start at each day, roll a % die. On 1-25, you will see messages that day.
+alien_sunset03/21/2019
+17. there is a bright flash of multicolored light stunning everyone around you, now once per day you can make flashing lights that can be used as signals, warnings or distractions
+Turtle Hat (he/him)03/21/2019
+18. This instant you draw this card, you are trapped inside the card face. The previous person on the card face is freed and standing where you used to be.
+Gold03/21/2019
+19. The card turns into a rabbit. Oops!
+el Stiko (he/him)03/21/2019
+20. It severs your fingers, falls through your boot, severing a toe and embedding itself in the ground.
+Harrigan03/21/2019
+21. It's a picture of your dearest childhood friend, and the fate that has befallen them.
+Thomas03/21/2019
+22. A large white dragon appears and follows your first three commands, then leaves.
+AaronF (he/him)03/21/2019
+23. The card acts as a powerful magical lens, enhancing any spells or magic affecting the holder.
+Adam Montana (he/they)03/21/2019
+24. A hooded figure emerges from the card and offers you a choice. Do you want a Red or a White Rose?
+johnsonny03/21/2019
+25. The card transforms into a sharp dagger. You get the distinct impression it is thirsty.
+Gold03/22/2019
+26. The card is double-sided. Draw again and take the option twice.
+Wright (he/him)03/22/2019
+27. You hear ethereal music and are compelled to dance to it.
+SuperMadol (He/Him)03/22/2019
+28. The card transforms into a mote of sunlight for a second, blinding everyone in the area
+Harrigan03/22/2019
+29. The card is hungry. You age 1d20 years.
+Void Worship [he/him]03/22/2019
+30. The card shows a picture of an elaborate fair. Suddenly, you hear music in the air. The nearest empty field now has a fair that matches the image on the card exactly and it is being ran by very friendly strangers.
+Aktane (he/him)03/22/2019
+31. Two strangers arrives, are they siblings ? Anyway, they ask you to pick between "Head" or "Tail". You always loose but you keep the gold coin.
+Turtle Hat (he/him)03/22/2019
+32. The seed on the card tumbles from its face and lands on the ground where it immediately sprouts, growing at an inch per minute for the next year.
+O_Pimentinha (GMT -3)03/22/2019
+33. From the card, vines come sprouting out and tangle themselves around the holder, forming a full armor, with the card as the crest. The wearer of the armor needs just to "absorb" the life of some tree to repair the armor after some damage is taken.
+AaronF (he/him)03/22/2019
+34. The card is a mirror, in which you see an alternate version of yourself. The mirror-self looks horrified to see you, and slams their card back down.
+johnsonny03/22/2019
+35. The card appears blank, but you can faintly hear what sounds like tinkling bells in the distance.
+just Sterbl03/22/2019
+36.  Your fingers clamp down on it, hard.  You canont release their steely grip, and it pulls your hand up high in the air as you are compelled to shout "IS THIS YOUR CARD?"  Try as you might, you cannot say anything else, every utterance you make comes out as that one demanding inquisition.  When people answer, you know in your heart if they are right or not.  You haven't met the owner yet.  You feel like they will be powerful, someone who will use this card to do something wonderful.  If you could only find them.
+Turtle Hat (he/him)03/22/2019
+37. So long as this card held face up there will be frequent rain here. So long as this card is held face down there will be drought. Whatever you do you cannot balance it on its side.
+just Sterbl03/22/2019
+38.  There's a small paragraph of text on the card describing what the next drawn card will be.  It stays the same even if the deck is shuffled.
+DuneAught03/22/2019
+39. The card cackles loudly and bursts into flames. Its ashes will never wash off your hands.
+jsal (he/him)03/22/2019
+40.  You are placed under a minor compulsion to do something embarrassing, but ultimately harmless.  The compulsion ends after you do it.
+just Sterbl03/22/2019
+41. Solar powered immovable card. (normal in all regards when outside of the sun's rays.)
+Wright (he/him)03/22/2019
+42. For the next twenty-four hours, you can only turn right.
+AaronF (he/him)03/22/2019
+43. Time advances half a day in a few brief moments. Morning to evening, or night to day. To outside observers you appear as a statue, immobile and immune to everything, staring at the card.
+Thomas03/22/2019
+44.  This card transforms into a colorful, self-powered hot air balloon for exactly one day.  You can pilot it yourself (if you have the skill) or you can let it take you with the wind... You never know where you'll end up!
+O_Pimentinha (GMT -3)03/23/2019
+45. The card has two glowing eyes on it's face. As long as you're holding the card in your hand, you can see clearly in dark spaces, as if it was day!
+johnsonny03/23/2019
+46. It says, "Good for one free tankard at the "Ebony Wand Tavern"
+Turtle Hat (he/him)03/23/2019
+47. The next 1d6 objects you touch after this card come to life
+DuneAught03/23/2019
+48. It reeks of pungent cheese... and it makes your hand stink too. Licking your fingers makes your mouth go numb, but gives you the power to speak with animals.
+Adam Montana (he/they)03/23/2019
+49. This card grows into a person who challenges you to a duel to first blood. Winner makes a request of the loser.
+Thomas03/23/2019
+50. This card depicts a joker who begins dancing and taking very loudly, heckling you and anyone else he sees with hilarious and strangely personal insults until he is returned back to the deck.
+AaronF (he/him)03/23/2019
+51. Fireball.
+just Sterbl03/23/2019
+52.  You turn into an intelligent swarm of insects
+AaronF (he/him)03/23/2019
+53. Resurrection on the nearest recently dead.
+Thomas03/23/2019
+54. This card shows an alien creature in an otherworldly place.  As you gaze upon its bizarre anatomy, it reaches its tentacles out of the card, trying to grab anyone nearby and pull them into the card itself.
+Turtle Hat (he/him)03/23/2019
+Sightly useful cursed magical items [1d20]
+Tam03/23/2019
+1. A ring of feel-better; wearing it makes you feel better but you aren't actually better.
+Wright (he/him)03/23/2019
+2. A powerful magic sword (or other weapon) inhabited by the soul of a pacifist monk. In order to do damage to an enemy, the monk must be cajoled into believing that inflicting harm on the target will serve the cause of peace.
+AaronF (he/him)03/23/2019
+3. A mask taking the shape of the wearer's face, but somewhat uglier.
+avantman42 (he/him)03/23/2019
+4. A sword or other weapon possessed by a jealous spirit. It allows the owner to inflict extra damage. The owner takes damage if they are separated from the weapon, or use any other weapon.
+jsal (he/him)03/23/2019
+5.  Shield of thoughts and prayers. This impressive looking shield may not be relinquished, and the character must always equip it, which takes up one hand. It doesn’t actually do anything.
+O_Pimentinha (GMT -3)03/23/2019
+6. A Spartan-like helmet that blinds you to what's in front of you, but let's you see clearly what's behind you.
+Thomas03/23/2019
+7.  This exquisite tunic makes you look fabulous, which is great, since you can't seem to take it off.  It also emits a strong scent, and everyone nearby, while they remain in the vicinity, are either immediately captivated by its allure, or intensely sickened by it.
+DuneAught03/23/2019
+8. A tasteless but nutritious traveler's ration. When it leaves your possession, it is destroyed, so no other creature may consume it. When you eat it or destroy it, two more appear in your pack or pockets. If you are naked and sackless without a place for the duplicates to spawn, they grow anew out of the skin of your body, weighing you down or armoring you (as skin-grafted hardtack would).
+johnsonny03/23/2019
+9. A single white glove. Keeps your hand at perfectly the right temperature, regardless of your surroundings. You could be in the midst of Mount Doom or the caverns of the Frost Giants, and your hand is perfectly comfortable. Unfortunately, there's only the one glove....
+AaronF (he/him)03/23/2019
+10. A wand of magic miss-ile. It'll always hit...something or someone near your target.
+DuneAught03/24/2019
+11. Two slender and warm-blooded fingers that fit perfectly into your nostrils, but a distant corrupted spellcaster feels what they feel.
+Withalwhere03/24/2019
+12. Bag of Hungry, Hungry Holding. This unusual Bag of Holding is intelligent and slightly mobile, with a tendency to pick up unattended items. May refuse to give up an item, requiring a trade of "equal" value (whatever that means to a Bag of Holding), but if treated well may (slowly) apply healing potions to a downed owner.
+Turtle Hat (he/him)03/24/2019
+13. Sword of maiming: Any attempts to deal a killing blow with this blade instead cause painful, debilitating injuries
+O_Pimentinha (GMT -3)03/24/2019
+14. Pair of boots that allow you to run faster than a galloping horse, but you can't control when it starts or when it stops.
+Harrigan03/24/2019
+15. Cloak of Hubris. While wearing this thick, velvety and gorgeous garment, the wearer becomes greatly, obnoxiously overconfident and suffers a penalty on all social tests. It feels good to wear the cloak; removing the cloak requires passing a will or other mental test, also at a penalty.
+Thomas03/24/2019
+16. This snot-green ring makes you immune to sickness, poison, and the effects of old age.  However, every few minutes you have the uncontrollable feeling like you need to sneeze, and almost do, but can't.
+Adam Montana (he/they)03/24/2019
+17. A circlet that, when worn, allows you to take both feet off the ground and float there. You have no control when you don't have contact with the ground.
+AaronF (he/him)03/24/2019
+18. A sending stone, a small flat rock allowing you to talk to anyone instantly. Problem is, everyone else can talk with you instantly, and frequently do, whether you want to or not, especially when you're trying to concentrate.
+Somebody Else's Auntie Kzte03/24/2019
+19. A pair of ferrets, both cursed, by nature of being ferrets, and magical, by nature of being ferrets. These ones attach themselves to whomever (sentient) last fed them the most interesting item in the world, as per their ferret perspective. They like to sleep in trouserlegs.
+O_Pimentinha (GMT -3)03/25/2019
+20. A scarf that allows the wearer to communicate with everyone in their own language, but the wearer can only either shout or whisper, never speak in a normal volume.
+Turtle Hat (he/him)03/25/2019
+What trap is lying in wait and protecting the treasure? [1d12]
+Somebody Else's Auntie Kzte03/25/2019
+1. Reldin's patented 'Humane Thief Trap'; triggers a 3 x 3 foot explosive powder cloud consisting of glitterized mica and cayenne pepper. Causes sneezing fits and the glitter gets absolutely everywhere. Ideal for marking stealthy buggers even if they get away.
+cromlyngames03/25/2019
+2. Genre displacement curtain;  if you leave the room through the curtain carrying treasure, the world ahead is subtly adjusted to a different genre, noir, fey, toystore, cyberpunk, space opera, victorianara
+The effect is removed once treasure returned
+Aktane (he/him)03/25/2019
+3. Good ol' boulder. Always did the trick but a pain to rewind.
+Adam Montana (he/they)03/25/2019
+4. a door on the far side of the room, when opened, causes the room to rotate so there is no exit.
+AaronF (he/him)03/25/2019
+5. Several decoys or false mechanisms, e.g. the real treasure is stored behind a ceiling tile, but each other tile drops spikes or plausible lesser treasure instead.
+just Sterbl03/25/2019
+6. reverse pit trap.  There's a very tall ceiling over this one spot.  Also, gravity goes the other way.
+Thomas03/25/2019
+7. A hidden arcane rune that, when triggered, teleports you to (roll 1d12 again):
+a. 1-3: Close to where you were just standing, but 30 feet in the air, and falling.
+b. 4-6: Out in the wilderness somewhere, lost and alone.
+c. 7-9: In a deep, dark place, and you hear someone -- or some THING -- nearby.
+d. 10-12: In the bed of a local authority figure who is now enraged by your presence.
+AaronF (he/him)03/25/2019
+8. Bear trap. The jaws probably break your leg, and then you have to deal with the rest of the bear.
+O_Pimentinha (GMT -3)03/26/2019
+9. Your hand gets stuck to the treasure chest and you have to break it there (attracting some creature with the noise) or carry it around until you can find somewhere else to break it.
+just Sterbl03/26/2019
+10.  The treasure is stored at a high temperature, enough to melt steel and catch fire to combustible things.
+Turtle Hat (he/him)03/26/2019
+11. A small hole to a ballbearing dimension opens in the ceiling and it doesn't close until the artifact is replaced.
+covert𝗼𝗽𝗲𝗿𝗮𝘁𝗼𝗿03/26/2019
+12. A valuable urn, just past a deadly-looking but harmless swinging blades trap. The real treasure is underneath a pedestal where an expensive-looking urn stands. The urn will release itching powder when opened or broken.
+jsal (he/him)03/26/2019
+What monster has wandered down off the high mountain pass? [2d6]
+Adam Montana (he/they)03/26/2019
+2. An avalanche of trolls is running down the mountain, away from something.
+Aktane (he/him)03/26/2019
+3. A pack of wolves, why are they here ?
+O_Pimentinha (GMT -3)03/26/2019
+4. A brown dire bear with a shackle around it's neck, and a dangling chain.
+Thomas03/26/2019
+5. A misunderstood ogre, looking for hugs.  But why does everyone keep yelling and running away from him?
+cromlyngames03/26/2019
+6. A thunderbird passing high overhead on the thermals
+just Sterbl03/26/2019
+7. Another squad of skeletons, recently calved from the bone glacier.
+DuneAught03/26/2019
+8. A flurry of glitter lice. They creep and tuck deep into crevices and entrench themselves, shimmering.
+AaronF (he/him)03/26/2019
+9. Cannibal hermit wizard looking to stock up on supplies.
+Aktane (he/him)03/27/2019
+10. Hunters for hire chasing Monsters Outlaws. Or was it the other way around ?
+Wright (he/him)03/27/2019
+11. The Big Bad. Think fast, GMs!
+Withalwhere03/27/2019
+12. The Wizard Most High, slayer of beasts, council to kings, has come to compete in the local harvest festival.
+Turtle Hat (he/him)03/27/2019
+Who will sorely miss the thug you just killed? [1d12]
+SuperMadol (He/Him)03/27/2019
+1. Thier best buddy that was supposed to go out drinking with them tonight. Now they have to drink alone....
+DuneAught03/27/2019
+2. The thug's beast-pet. Left unattended, it'll grow hungrier and angrier until it eventually breaks free of its cage.
+avantman42 (he/him)03/27/2019
+3. The old person that lived down the road from the thug. The thug was never horrible to the old person, who always thought he was a very nice youngster.
+Adam Montana (he/they)03/27/2019
+4. The local Lord, who was getting a cut of the "tolls".
+Aktane (he/him)03/27/2019
+5. The local Lord, the thug area is now fair game to everyone
+O_Pimentinha (GMT -3)03/27/2019
+6. His identical twin brother, who is a misbehaving lord, and used to blame the deceased for his escapades.
+Harrigan03/27/2019
+7. The local crime boss, whom the thug owed money.
+AaronF (he/him)03/27/2019
+8. Their two young kids, you monster. You just made two enemies for life.
+cromlyngames03/27/2019
+9. His  gut flora. Now they've got to be a freee ranging slime all over again until a new host agrees
+Thomas03/27/2019
+10. You!  Now that you've removed the thug's disguise, you realize they that were very close to you (describe how).
+just Sterbl03/27/2019
+11.  The thug's living shadow, now they'll have to find someone else with just the right profile to vicariously experience the 3 dimensional world through.
+Thomas03/27/2019
+12. The local constabulary.  The thug was actually an undercover cop, and you just ruined their sting operation.
+Turtle Hat (he/him)03/27/2019
+What horrible crime was the sting operation set to foil? [1d12]
+jsal (he/him)03/27/2019
+1.  Interference in a local election by a foreign power.
+just Sterbl03/27/2019
+2. Steal a painting, then release the ancient evil being imprisoned inside.
+Withalwhere03/27/2019
+3. A history of entrapment by the local police.
+Thomas03/27/2019
+4. Someone's been selling spellbook forgeries, causing anyone who uses them to cast the wrong spell, often with embarrassing or disastrous consequences.
+AaronF (he/him)03/27/2019
+5. An ongoing vigilante justice campaign against petty criminals.
+Adam Montana (he/they)03/27/2019
+6. A consistent avoidance of the bridge's toll.
+O_Pimentinha (GMT -3)03/27/2019
+7. An angry cook that wanted to poison the whole royal family.
+Thomas03/27/2019
+8. An elaborate plot to rob a local gambling den and exact revenge upon its owner.
+AaronF (he/him)03/27/2019
+9. Importing and selling large amounts of addictive potions.
+avantman42 (he/him)03/28/2019
+10. Kidnapping children and selling them to a foreign power, where they would be put to work in mines too small for adults.
+O_Pimentinha (GMT -3)03/28/2019
+11. A group of spies who run a winepress, but have been sharing military secrets on the back of the labels in their wine bottles.
+Aktane (he/him)03/28/2019
+12. Massive destruction of all locals farm letting the imported prices of food rocket
+jsal (he/him)03/28/2019
+What’s the tragic backstory of the NPC the party just killed? [1d12]
+SuperMadol (He/Him)03/28/2019
+1. They were one payment away from paying off a set of criminals so that they could get their family back
+Aktane (he/him)03/28/2019
+2. They were killed because or in lieu of their evil twins
+Adam Montana (he/they)03/28/2019
+3. They weren't even supposed to be here today.
+DuneAught03/28/2019
+4. They spent most of their life caring for their ailing grandmother, whose dying wish was that they live a simple life doing what they love -- whatever it was they were doing when you killed them.
+just Sterbl03/28/2019
+5. This was their last day before retirement.
+O_Pimentinha (GMT -3)03/28/2019
+6. The NPC was sheltering a kid with amnesia, while trying to find something out about the kid's past.. now who's going to help the kid? does anyone else know about the kid?
+Turtle Hat (he/him)03/28/2019
+7. They were a mind-controlled thrall of a strange monster living in their brain. It bursts outs and is rapidly wriggling in your direction!
+Thomas03/28/2019
+8. They had just won a special prize: (describe it).  Now to whom will it belong?
+cromlyngames03/28/2019
+9. They were an escaped slave  (to whom?) . If you check  their id number is still tattooed on their arm.
+Wright (he/him)03/28/2019
+10. They’d just quit their crappy job and begun pursuing their dream of [whatever the NPC did] yesterday.
+Tam03/28/2019
+11. They're a vat-grown clone of someone -- maybe you! -- and they thought they were that someone, and died thinking it.
+cromlyngames03/29/2019
+12. They had learning difficulties and had been exploited all their life
+Turtle Hat (he/him)03/29/2019
+What extravagant single-purpose room do you find in the mansion? [1d20]
+Aktane (he/him)03/29/2019
+1. An empty room to welcome the Void inside of you
+SuperMadol (He/Him)03/29/2019
+2. A room solely to sort out the mail coming and going from the mansion
+Adam Montana (he/they)03/29/2019
+3. A cooper's workshop to supply the vineyard with all the barrels it needs.
+Tam03/29/2019
+4. The butterfly room, all dark gleaming wood and soft silk, with a five hundred butterflies present at all times.
+Turtle Hat (he/him)03/29/2019
+5. A wardrobe room with golem servants identical in shape to their owners wearing lavish outfits. They're ready to test poses, change outfits and demonstrate fashion. In their off-hours, they move around and silently imitate their masters without saying a word.
+Thomas03/29/2019
+6. A wizard's dueling room, fitted with staff and wand racks, practice targets, and benches for spectators.
+O_Pimentinha (GMT -3)03/29/2019
+7. A room filled with all sorts of instruments, known, unknown and invented there, where inspiration comes to the Bard owner of the place.
+Thomas03/29/2019
+8. An enormous conservatory, the size of a mansion itself, housing a wide assortment of flora and fauna from many regions across the world.  This independent ecosystem has survived by itself for decades and its native populations have been thriving and crossbreeding, potentially creating entirely new species.  Something here may be hungry... or may have gained sentience on its own.
+DuneAught03/30/2019
+9. Mush room. For enjoying porridges.
+johnsonny03/30/2019
+10. a room that is large enough to easily be a ballroom, but it's completely empty except for a cast-iron, claw-foot bathtub in the center. You can hear a slow drip.
+cromlyngames03/30/2019
+11. A long thin room that gets lower towards the door. The shelfs are full of shoes getting higher heeled as the ceiling rises. Towards the end of the room they are full prosthetic legs
+AaronF (he/him)03/31/2019
+12. Pet room. Full of dog beds or cat climbs, or both, according to the owner's preference. Aquariums, terrariums, bird perches, or rodent tube habitats are other options.
+Adam Montana (he/they)03/31/2019
+14. The preserves room, filled with  all manner of things in jars, some of which are edible.
+O_Pimentinha (GMT -3)03/31/2019
+15. A long-abandoned room filled with all kinds of mirrors, long and short, thin and wide, broken and ornate, where a known narcissist used to live.
+There's dust and cobwebs all over the place, but if some visitor is curious enough, they'll find that all the faces of the mirrors are sparkling clean.
+DuneAught03/31/2019
+16. Max Head Room. Room to display the taxidermized head of deceased pet, Max.
+Withalwhere03/31/2019
+13. Time stretches and bends in this hot house, guaranteeing constant access to millenial flowers and succulent fruit. Staying too long may accrue temporal debt.
+Tam03/31/2019
+17. A very small closet, barely a cupboard, lined with shelves holding small glass spheres. Each contains a discarded regret.
+DuneAught03/31/2019
+18. The Crying Room - for sad days. Pillows, tissues, sunglasses, pastries, weight-bearing shoulder sculptures, rain machine.
+Turtle Hat (he/him)04/01/2019
+19. The espionage room - a room filled with period-appropriate surveillance equipment in a looming tower to keep an eye on those less fortunate below
+Adam Montana (he/they)04/01/2019
+20. The Orrery Room, but the planets and moons don't match what you know to be in the sky.
+RobotBOT04/22/2019
+@Occam has joined, along with @psychedel0naut
+Turtle Hat (he/him)05/01/2019
+FEBRUARY/APRIL ABOVE ABOVE
+MAY BELOW
+Tam05/01/2019
+This is it! You've finished the entire map, and now you just need a few encounter tables!
+
+When crossing the Limbgod Desert, you come across... [d6]
+1. Hungry sand velociraptors stalking the wastes.
+   a. They are tearing apart a dead horse, a messenger lying bloody nearby.
+   b. A brief rustle of sand heralds an explosion of claws and teeth from beneath the sand!
+Turtle Hat (he/him)05/01/2019
+2. A herd of hovering, enchanted obelisks are gathering around an old ruin, collecting coins for their magician masters
+  a. They've just finished collecting coins from the ruins and are starting to wander away with their chambers filled with silver
+  b. A beast has spooked them and they're beginning to stampede!
+Void Worship [he/him]05/01/2019
+3. A gigantic mechanical man, dead and half buried in the sands. A community seems to have begun forming around the colossus.
+   a. They are a scrap market selling parts off of the mechanical man.
+   b. They are a technology worshipping cult who are covetous of their new god.
+Adam Montana (he/they)05/01/2019
+4. A stone outcropping, which would be a good place to rest out the day...
+    a. and a beast awakening is already resting there.
+    b. and there is are abandoned jugs of water. Who left them?
+Occam vanRijn05/01/2019
+5. Every time you crest the next ridge of dunes, you see what looks like an enormous inverted castle floating in the air—complete with flapping banners and soldiers on the battlements. Always dancing at the horizon, the shimmering sight of it seems to draw you closer...
+a) ...but it’s nothing but an illusion—the mirage of a nearby stone pinnacle modified by magic to draw in the desperate and lost...
+b) ...and it’s absolutely real—complete with a vengeful fae queen who considers this bit of desert to be hers alone, and demands payment to cross her lands
+D43m0n05/01/2019
+6. A merchant caravan that seems to be in distress. The contents of their scarab-carts spilled across the sand...
+a) ...They will offer food and small treasures for help getting to the next settlement.
+b) ...It's a trap! The caravan is a decoy for a group of mimics who spring forth from their resting place on the ground, froth spilling from their maws.
+Tam05/01/2019
+The edge of the desert, scrub, deep gullies and canyons -- aha, Rimwest Canyon. There's a spot for adventure! [d6]
+Jalthir05/01/2019
+1.) fancy seeing another party in these parts!
+ a.) you have a nice chat, maybe find out a bit about their quest, but too much.
+ b.) too bad it seems to be an awful day for them, they are trying to prevent one of their own from falling off a ridge.
+Archleone05/01/2019
+2. You make your way to the lowest region of the canyon, where you find a small, clear pool, shaded by withered, sun-bleached trees. You peer into the pool, wherein you see...
+   a. The entrance to a cave. The entrance is dark, but something bright glints deep within its reaches.
+   b. A skeletal reflection of yourself. As you stare, the flesh of your own hand begins to grow faint, revealing the bone beneath - and you feel an urge to reach out and skim the pool's clear waters. Hopefully a friend will draw you back, away from the pool. Someone? Anyone?
+AaronF (he/him)05/01/2019
+3. A sheriff and their posse pursue an escaped outlaw, and confront you on a bluff.
+ a. They could use a hand tracking and bringing the outlaw to justice, in return for a small reward.
+ b. Say, one of you looks an awful lot like the picture on the wanted poster...how about you come with us back to town, nice and quiet like?
+Adam Montana (he/they)05/02/2019
+4. A rainstorm approaches, causing the canyon to flood! you escape ...
+   a. Into a side canyon with buildings carved into the side. what could they contain?
+   b. On a log, carrying you down to wherever the water is going.
+Turtle Hat (he/him)05/02/2019
+5. Miners, digging out of the canyons and into the bright sun
+  a. They have injured workers and are seeking help. What forced them to the surface?
+  b. The miners aggressively guard their claim. What strange artifacts did they find?
+cromlyngames05/03/2019
+6. A landslide has scattered stones and boulders across the canyon. Most of them look somewhat bone shaped.
+a) glints of amber suggest riches to mine in the unstable spill
+b) a lot of death here, concentrated by time. Whats that black tent on the crest?
+Tam05/03/2019
+The deep gullies and fissures give way into the massive Tesseract Falls. Far below the ancient city sprawls, but first you must navigate the path down! [d6]
+Occam vanRijn05/03/2019
+1. You pass a group of bodies hanging from tangled climbing gear, so desiccated and worn that it’s hard to identify them. Their packs seem full...
+a) ...and they are, with imperishable supplies, useful gear, and scorpions.
+b) ... and they are, with nothing but dozens of ranting journals full of dark suspicions and fear. Something in this canyon clouds minds...
+just Sterbl05/03/2019
+2. In the middle of a wide waterfall, an impossible sideways whirlpool sucks water deep into the cliff face.  From the black depths of the vortex...
+a) ... warm firelight glinting off of golden treasure.
+b) ... howls, shrieks and teeth.  It's alive and aware of you.
+Archleone05/03/2019
+3. While descending, you hear a scream coming from above, which you quickly realize is another adventurer - about to fall past you, to land in the jagged rocks below.
+   a. You reach out your arm and attempt to catch them, hoping your strength and the equipment you've brought with you are enough to keep you both from plummeting.
+   b. You say a quiet prayer and continue descending, until further below you see a bent and twisted form, dashed on the rocks. When you reach the cliff face, however, the body is gone. Then you begin to hear, from above, that same ghastly scream.
+Turtle Hat (he/him)05/05/2019
+4. Abandoned beasts of burden are tied to a dead tree near a tiny path up from the city. Their owners are not in sight
+   a) It's a trap! Bandits lie in wait for the curious and well-meaning to take a closer look
+   b) They beasts are laden with artifacts from the city and the scavengers who collected them are no where to be seen. You hear a cry for help in the distance!
+DuneAught05/07/2019
+5. There's a mysterious hole in the cliffside that light cannot penetrate. It looks bottomless, but a person could fit through.
+  a.  Anything (or anyone) dropping through the hole gets spit out from another hole at the bottom of the waterfall. It's a one-way trip.
+  b.  The hole is just a magically lightless cubbie. Within, there's someone's secret stash of valuable medicinal herbs and precious ever-glowing gems.
+Adam Montana (he/they)05/08/2019
+6.  Objects appear and disappear as they fall down the waterfalls, seemingly at random intervals.
+   a. surely some could be useful if you could just reach out and grab them...
+   b. they fall in your path, and who knows how touching them will turn out.
+Tam05/08/2019
+The ancient city of Workwyrm spreads below you. As you approach... [d6]
+Occam vanRijn05/08/2019
+1. ...you begin to feel watched. Five pairs of yellow, mirrored retinas flash from the shadows before disappearing the minute you turn to look. Some beasts are tracking you...
+a) ...and they are still hungry after eating the last adventurers.
+b) ...and they’re waiting until the monster ahead kills you to steal bits of your corpse.
+just Sterbl05/08/2019
+2. A chain carved from interlocking stone links grinds across the main road
+a) it circles the city endlessly, the only working part of a long decayed trolley system.
+b) at the end is a massive doglike gargoyle formed from living rock.
+Archleone05/08/2019
+3. As the city's epicentre comes into view, you see a massive, half-domed ampitheatre. On its steppes rest the coils of the titular Workwyrm. She seems engrossed with her latest Masterpiece.
+   a. She is busily arranging a large statue composed of the weapons and armor of adventurers who wandered too close. It looks like it might come alive at any moment...
+   b. She's conducting an Orchestra of chained and manacled bards. Their haunting melody is enchanting, and you feel an urge to get closer, to better appreciate the acoustics...
+DuneAught05/08/2019
+4. A fanfare of horns rings through the air.
+  a.  It's an alarm. The city's being invaded by savage beasts.
+  b.  It's the opening ceremony for the city's feast and festival week.
+Turtle Hat (he/him)Last Monday at 10:44 PM
+5. A marble-paved street in front of you is entirely devoid of life, doors or decoration
+  a. This is an enchanted sentient street that must be befriended for the doors to show themselves
+  b. A localized magical field kills all living things that remain in the street for more than a minute. Bandits are using it to rob unaware explorers
+just SterblLast Tuesday at 8:47 AM
+6. You walk towards the city for hours but don't seem to make any progress
+a. When you glance behind you, the edge of the city is right there.  You've only traveled in about 100 yards.
+b. The buildings are much larger than you guessed at first, like they were built for things 5 times larger than human.
+TamLast Tuesday at 9:56 AM
+You stand before the gates of Workwyrm; what do you encounter as you make your way through it? [d6]
+𝔛𝔞𝔯𝔞𝔰 (he/they)Last Tuesday at 10:14 AM
+1. You descend down stairs of enormous proportions, arduously climbing down steps many times your height. The stairs open up into...
+a. A giant-sized trap with spikes the size of church spires.
+b. A giant-sized taproom with preserved kegs of wine and beer large enough to supply a whole town
+WithalwhereLast Tuesday at 10:27 AM
+2. A kobold town flourishes here, burrowed into gateway all the way up to its keystone more than a hundred feet above the ground. You hear a commotion from...
+a. a goblin festival. Food, drink, and colorful trinkets flow freely.
+b. a goblin trial. You are surrounded by clamorous voices demanding you act as impartial arbiters.
+DuneAughtLast Tuesday at 10:33 AM
+3. Did you say the secret password?
+  a.  What you said as you passed the gate was good enough. Welcome to Workwyrm. The city denizens are bustling with busywork.
+  b.  What you said as you neared the gate was invalid for entry. The magic gate has teleported you elsewhere far away, according whatever it was that you were saying at the time.
+Occam vanRijnLast Tuesday at 11:14 AM
+4. The gate here is blown out at the base, with huge chunks dug out of the walls as though a massive bulk forced its way though leaving gouges in the stone ten feet deep and thirty feet wide. The ground here is disturbed for hundreds of yards within and without, with strange glassy spines lying in and around the deepest grooves--even high on the walls of the gates.
+
+a. These are the feeler-hairs of the great Wyrm, coated in a glossy poison that drives mortal creatures into a frenzied panic at the slightest touch; the only hope for the sufferers is to tie them up while the toxin dissipates, and to pray no predator chances upon them.
+b. The spines are rooted together into a subterranean whole that must span the entire town. It passes through stone, wood, and if you sleep on the ground, flesh and bone. They subsist on the leavings of the Wyrm, but would be happy to nourish themselves on you if you tarry too long.
+ArchleoneLast Tuesday at 4:13 PM
+5. When you've crossed the threshhold, you find yourself in the Workwyrm's well manicured gardens, full of splendorously trimmed topiaries and decadently hued floral arrangements. When you step onto the grass, however...
+   a. The plants begin to attack you, showering you with sticky-sweet fruits, needle-like thorns, and razor-sharp petals.
+   b. Every path you go down leads you deeper and deeper into a maze of hedges that seem to grow denser and taller with each twist and turn, until you believe you are well and truly lost.
+Turtle Hat (he/him)Yesterday at 11:17 AM
+6. A statue, honoring the mythic founders of Workwyrm stands proud before you. It glimmers in the dim light, almost seeming to move
+  a. You notice a small shrine before the statue. The spirits said to inhabit the statue may be fickle today. What do you do?
+  b. The statue is teeming with antler-adorned cultists in vibrant teal robes. They are dismantling the statue! What do you do?
+DuneAughtYesterday at 11:37 AM
+You access the sewers beneath Skunkdead Square, a labyrinthine network of tunnels and tubes; what do you smell down here? [d6]
+Occam vanRijnYesterday at 11:49 AM
+1. The cloying, sweet smell or rotting flesh is intense here, but there are strange notes of musk and ammonia that you can’t place. Occasionally, you see tiny hair-like worms writhing on the floor. Around the next bend you nearly topple into...
+a) ...an enormous pit of wyrmspawn. Only one in twenty million will grow to adulthood, but they all eat like they’re the chosen one.
+b) ...an enormous pit with a single wyrmspawn in it, the size of a horse. It has eaten its sibling-rivals and is now ready to eat you.
+just SterblYesterday at 12:07 PM
+2. An acrid breeze, then nothing.  You fear you've gone nose-blind but slowly you catch the faintest whiff of something you never realized was smellable before
+ a. Emotions - your group's own confusion and surprise at first, then you pick up a fainter trace of something else's fear.
+ b. Magic - some of your equipment reeks of it.  In the distance you hear something large snuffling and snorting and coming closer.
+ArchleoneYesterday at 1:28 PM
+3. The magic sensitive among you feel the pulse of... a summoning. Surging up the tunnels (and your nostrils) AN EXCREMENTAL! It takes the form of...
+   a. A raging dire bear, enormous and unstoppable
+   b. A stampede of dire boar, trampling and goring all in its path
+Adam Montana (he/they)Yesterday at 1:32 PM
+4: it smells surprisingly nice, like just baked cookies and the way it smelled when you visited friends when you were young.
+   a. someone is living down here, and has made a home nearby.
+   b. this cannot be so, and it must be an illusion.

@@ -1,0 +1,26 @@
+
+(% for spellO in spells %)
+\newpage
+\section*{Level ({spellO.0}) Spells}
+(% for spell in spellO.1 %)
+
+\begin{tabularx}{\linewidth}{l|l|l}
+  \multicolumn{3}{p{11cm}}{\BlackCellHeaderTight{({spell.name|latexescape})}} \\
+  L({spell.level}), ({spell.school|latexescape}) &
+  \multicolumn{2}{p{8cm}}{({spell.components|latexescape})} \\
+  \hline
+  \rowcolor{gray!25}({spell.time|latexescape}) &
+  ({spell.range|latexescape}) &
+  ({spell.duration|latexescape})\\
+  \hline
+  (% for text in spell.text %)
+  \rowcolor{(% if forloop.counter|even %)gray!25(% else %)white(% endif %)}
+  \multicolumn{3}{p{11cm}}{({text|latexescape})} \\
+  (% endfor %)
+  (% for note in spell.notes %)
+  \rowcolor{(% if forloop.counter|even %)gray!25(% else %)white(% endif %)}
+  \multicolumn{3}{p{11cm}}{\textbf{({note.0|latexescape})}: ({note.1|latexescape})} \\
+  (% endfor %)
+\end{tabularx}
+(% endfor %)
+(% endfor %)

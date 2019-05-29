@@ -79,7 +79,7 @@ TL;DR, the [DCC](http://goodman-games.com/dungeon-crawl-classics-rpg/) fonts:
 
 [Book Antiqua](https://www.wfonts.com/font/book-antiqua)
 
-[IM Fell English Pro](https://www.fontsquirrel.com/fonts/im-fell-english-pro)
+[IM Fell Types](https://www.dafont.com/im-fell-types.font)
 
 ## Input Text Format
 

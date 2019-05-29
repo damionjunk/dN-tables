@@ -41,11 +41,22 @@
       (println "Using classpath (included) LaTeX templates."))
     (spit output (-> (p/simple-reader source) ->document))))
 
-(comment
 
-  (->tex (io/file "inputexamples/rpgtalk/small.txt") "go.tex")
-  
-  (->tex (io/file "inputexamples/goatmansgoblet/familyweapons.txt") "go.tex")
+(defn tex-template [source dest data]
+  (let [troot (get-in (env) [:tex :templateroot])
+        root (or troot (-> (java.io.File. ".") .getCanonicalPath))]
+    (println "Setting template root to: " root)
+    (selmer.parser/set-resource-path! root)
+    (spit dest
+          (without-escaping
+           (sp/render-file source data tags)))))
+
+(comment
+ 
+ 
+ (->tex (io/file "inputexamples/rpgtalk/big.txt") "go.tex")
+ 
+ (->tex (io/file "inputexamples/goatmansgoblet/familyweapons.txt") "go.tex")
   
   (->tex (io/file "inputexamples/dwdiscord/d6d.txt") "go.tex")
   
